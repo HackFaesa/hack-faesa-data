@@ -4,7 +4,7 @@
         "defaultMessage": {
             "title": "Em breve abriremos as inscrições para o Hackthon desse ano, qualquer dúvida ou informação favor entrar em contato pelo email abaixo:",
             "link": "mailto:contatohackfaesa@gmail.com",
-            "content": "contatohackfaesa@gmail.com"
+            "content": "contatohackfaesa@gmail.com",
         },
         "buttons": [
             {
@@ -27,33 +27,33 @@
         "socialMedia": [
             {
                 "link": "mailto:contatohackfaesa@gmail.com",
-                "name": "EMAIL"
+                "name": "EMAIL",
             },
             {
                 "link": "https://www.facebook.com/hackfaesa/",
-                "name": "FACEBOOK"
+                "name": "FACEBOOK",
             },
         ],
         "pillars": [
             {
                 "icon": "fas fa-handshake fa-3x ",
                 "title": "Trabalhe em Grupo",
-                "content": "Crie projetos de forma coletiva para agregar mais experiência a sua carreira"
+                "content": "Crie projetos de forma coletiva para agregar mais experiência a sua carreira",
             },
             {
                 "icon": "fas fa-chalkboard-teacher fa-3x",
                 "title": "Apresente sua ideia",
-                "content": "Tenha a oportunidade de aprensentar seu protótipo para uma banca de representantes de empresas"
+                "content": "Tenha a oportunidade de aprensentar seu protótipo para uma banca de representantes de empresas",
             },
             {
                 "icon": "fas fa-users fa-3x",
                 "title": "Networking",
-                "content": "Trabalhe sua rede de contatos conhecendo pessoas que desejam aprimorar suas ideias e empreendimentos"
+                "content": "Trabalhe sua rede de contatos conhecendo pessoas que desejam aprimorar suas ideias e empreendimentos",
             },
             {
                 "icon": "fas fa-money-check-alt fa-3x",
                 "title": "Invista na sua criação",
-                "content": "Você pode ganhar até R$1000 mostrando seu projeto"
+                "content": "Você pode ganhar até R$1000 mostrando seu projeto",
             },
         ],
         "promoting": {
@@ -63,21 +63,21 @@
         "numbers": [
             {
                 "number": "9",
-                "content": "Edições completas em 5 anos"
+                "content": "Edições completas em 5 anos",
             },
             {
                 "number": "70+",
-                "content": "Participantes por edição"
+                "content": "Participantes por edição",
             },
             {
                 "number": "2",
-                "content": "Dias de evento e programação"
+                "content": "Dias de evento e programação",
             },
             {
                 "number": "20+",
-                "content": "Soluções ganhadoras"
+                "content": "Soluções ganhadoras",
             },
-        ]
+        ],
     },
     "event": {
         "sectionRules": {
@@ -90,21 +90,21 @@
                     "topics": [
                         {
                             "text": "Microsoft Teams",
-                            "content": "Bootcamps"
+                            "content": "Bootcamps",
                         },
                         {
                             "text": "Zoom + Youtube",
-                            "content": "Abertura da maratona"
+                            "content": "Abertura da maratona",
                         },
                         {
                             "text": "Discord",
-                            "content": "Sala comunitária (interação entre grupos), salas privadas (grupos) e mentorias"
+                            "content": "Sala comunitária (interação entre grupos), salas privadas (grupos) e mentorias",
                         },
                         {
                             "text": "FAESA (Presencial)",
-                            "content": " Pitch e Cerimônia de Encerramento"
+                            "content": " Pitch e Cerimônia de Encerramento",
                         },
-                    ]
+                    ],
                 },
                 {
                     "title": "Críterios de Pontuação",
@@ -130,7 +130,7 @@
                             "text": "5",
                             "content": "Muito Bom"
                         },
-                    ]
+                    ],
                 },
                 {
                     "title": "Vencedores",
@@ -160,8 +160,8 @@
                             "text": "Pitch",
                             "content": "Avaliar a clareza, objetividade, formalidade e criatividade da apresentação",
                         },
-                    ]
-                }
+                    ],
+                },
             ],
             "rules": [
                 {
@@ -239,7 +239,7 @@
                     "title": "#CERTIFICADO",
                     "content": "Todos os participantes do HACKFAESA terão certificado de participação."
                 },
-            ]
+            ],
         },
         "sectionBootcamp": {
             "title": "Bootcamp",
@@ -311,7 +311,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sankhya.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 9° Edição",
@@ -327,7 +327,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/vale.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/arcellor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sebrae.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 8° Edição",
@@ -359,7 +359,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/prisma.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cdtv.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 7° Edição",
@@ -378,7 +378,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/totvs.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/mindtech.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/techVitoria.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 6° Edição",
@@ -405,7 +405,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/alarmes.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/byte.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 5° Edição",
@@ -415,7 +415,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/creed.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 4° Edição",
@@ -427,7 +427,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/creed.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/picpay.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 3° Edição",
@@ -436,7 +436,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 2° Edição",
@@ -448,7 +448,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/ish.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cronapp.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/nest.png",
-                    ]
+                    ],
                 },
                 {
                     "title": "Hack FAESA - 1° Edição",
@@ -458,7 +458,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
-                    ]
+                    ],
                 },
             ],
 
@@ -483,7 +483,6 @@
                     "model": "bronze",
                 },
             ],
-
         },
     },
     "team": {
@@ -515,93 +514,93 @@
                 {
                     "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg",
-                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição"]
+                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição",],
                 },
                 {
                     "name": "Cintia Corsini",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user5.jpg",
-                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"]
+                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA",],
                 },
                 {
                     "name": "Fernando Marques",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user7.jpg",
-                    "badges": ["Colaborador", "Coordenador UCS FAESA"]
+                    "badges": ["Colaborador", "Coordenador UCS FAESA",],
                 },
                 {
                     "name": "Otavio Lube",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user14.jpg",
-                    "badges": ["Colaborador", "Docente FAESA"]
+                    "badges": ["Colaborador", "Docente FAESA",],
                 },
                 {
                     "name": "Howard Roatti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user9.jpg",
-                    "badges": ["Colaborador", "Docente FAESA"]
+                    "badges": ["Colaborador", "Docente FAESA",],
                 },
                 {
                     "name": "Wesley Amorim",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user19.jpg",
-                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
                 },
                 {
                     "name": "Gabrieal Ramos",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user8.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
                 },
                 {
                     "name": "Driealy Rocha",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user6.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
                 },
                 {
                     "name": "Vitor Moreira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user17.jpg",
-                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
                 },
                 {
                     "name": "Bruna Vieira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user2.jpg",
-                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
                 },
                 {
                     "name": "Stephan Domingues",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user15.jpg",
-                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
                 },
                 {
                     "name": "Myrella Freitas",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user13.jpg",
-                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição",],
                 },
                 {
                     "name": "Milena Cardoso",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user12.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição",],
                 },
                 {
                     "name": "Jair Batista",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user10.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição",],
                 },
                 {
                     "name": "André Fernandes",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user1.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição",],
                 },
 
                 {
                     "name": "Vitor Siqueira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user18.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição",],
                 },
                 {
                     "name": "Bruno Talhate",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user3.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição",],
                 },
                 {
                     "name": "Thomaz Oro",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user16.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição",],
                 },
 
             ],
@@ -632,7 +631,7 @@
                     "title": "HACK 6.0",
                     "src": "https://www.youtube.com/embed/wISAWRDJf8w?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560"
                 },
-            ]
+            ],
         },
         "sectionWinners": {
             "title": "Vencedores",
