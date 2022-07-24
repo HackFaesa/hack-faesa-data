@@ -21,68 +21,68 @@
         "link": "https://www.faesa.br/esta%C3%A7ao-movie",
     },
     "home": {
-        "title": 'O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.',
-        "content": 'Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias.',
-        "date": '',
+        "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
+        "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias.",
+        "date": "",
         "socialMedia": [
             {
-                "link": 'mailto:contatohackfaesa@gmail.com',
-                "name": 'EMAIL'
+                "link": "mailto:contatohackfaesa@gmail.com",
+                "name": "EMAIL"
             },
             {
-                "link": 'https://www.facebook.com/hackfaesa/',
-                "name": 'FACEBOOK'
+                "link": "https://www.facebook.com/hackfaesa/",
+                "name": "FACEBOOK"
             },
         ],
         "pillars": [
             {
-                "icon": 'fas fa-handshake fa-3x ',
-                "title": 'Trabalhe em Grupo',
-                "content": 'Crie projetos de forma coletiva para agregar mais experiência a sua carreira'
+                "icon": "fas fa-handshake fa-3x ",
+                "title": "Trabalhe em Grupo",
+                "content": "Crie projetos de forma coletiva para agregar mais experiência a sua carreira"
             },
             {
-                "icon": 'fas fa-chalkboard-teacher fa-3x',
-                "title": 'Apresente sua ideia',
-                "content": 'Tenha a oportunidade de aprensentar seu protótipo para uma banca de representantes de empresas'
+                "icon": "fas fa-chalkboard-teacher fa-3x",
+                "title": "Apresente sua ideia",
+                "content": "Tenha a oportunidade de aprensentar seu protótipo para uma banca de representantes de empresas"
             },
             {
-                "icon": 'fas fa-users fa-3x',
-                "title": 'Networking',
-                "content": 'Trabalhe sua rede de contatos conhecendo pessoas que desejam aprimorar suas ideias e empreendimentos'
+                "icon": "fas fa-users fa-3x",
+                "title": "Networking",
+                "content": "Trabalhe sua rede de contatos conhecendo pessoas que desejam aprimorar suas ideias e empreendimentos"
             },
             {
-                "icon": 'fas fa-money-check-alt fa-3x',
-                "title": 'Invista na sua criação',
-                "content": 'Você pode ganhar até R$1000 mostrando seu projeto'
+                "icon": "fas fa-money-check-alt fa-3x",
+                "title": "Invista na sua criação",
+                "content": "Você pode ganhar até R\$1000 mostrando seu projeto"
             },
         ],
         "promoting": {
-            "title": 'Promovendo inovação e potencializando o aprendizado',
-            "content": 'O HackFAESA se destaca por ser diferente de tudo o que os alunos já viram em relação à inclusão no mercado de trabalho. Se trata de retirar o aluno do comodismo da sala de aula para realizar um trabalho que é pertinente, desenvolvendo protótipos e soluções para problemas atuais.'
+            "title": "Promovendo inovação e potencializando o aprendizado",
+            "content": "O HackFAESA se destaca por ser diferente de tudo o que os alunos já viram em relação à inclusão no mercado de trabalho. Se trata de retirar o aluno do comodismo da sala de aula para realizar um trabalho que é pertinente, desenvolvendo protótipos e soluções para problemas atuais."
         },
         "numbers": [
             {
-                "number": '9',
-                "content": 'Edições completas em 5 anos'
+                "number": "9",
+                "content": "Edições completas em 5 anos"
             },
             {
-                "number": '70+',
-                "content": 'Participantes por edição'
+                "number": "70+",
+                "content": "Participantes por edição"
             },
             {
-                "number": '2',
-                "content": 'Dias de evento e programação'
+                "number": "2",
+                "content": "Dias de evento e programação"
             },
             {
-                "number": '20+',
-                "content": 'Soluções ganhadoras'
+                "number": "20+",
+                "content": "Soluções ganhadoras"
             },
         ]
     },
     "event": {
         "sectionRules": {
-            "title": 'Hackathon',
-            "content": 'O HACKFAESA é um evento acadêmico que demanda seriedade e respeito tanto da Organização como aos visitantes ou participantes da competição, assim pedimos que fique atento as nossas regras para evitar advertências ou dificuldades. ',
+            "title": "Hackathon",
+            "content": "O HACKFAESA é um evento acadêmico que demanda seriedade e respeito tanto da Organização como aos visitantes ou participantes da competição, assim pedimos que fique atento as nossas regras para evitar advertências ou dificuldades. ",
             "complexrules": [
                 {
                     "title": "Local",
@@ -165,138 +165,138 @@
             ],
             "rules": [
                 {
-                    "title": 'Programação do Evento',
+                    "title": "Programação do Evento",
                     "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os Bootcamps serão realizados nas datas 08/10/2021 (20h às 22h), 22/10/2021 (18h às 22h) e 28/10/2021 (18h às 22h). Os temas a serem abordados serão Canva/Design Thinking, Desenvolvimento de Soluções Full Stack , UX/UI e Pitch.",
                 },
                 {
-                    "title": 'Apresentações',
-                    "content": 'As equipes deverão apresentar seus protótipos para concorrer aos prêmios. Podendo ser produtos digitais criados por puro código, designs/layouts, jogos, robôs, etc. Não serão permitidos Power Points, vídeos, ou qualquer outra forma de apresentação que não seja uma demonstração do protótipo que foi desenvolvido em funcionamento. A apresentação do protótipo deverá ocorrer no formato de um Pitch de no máximo 5 minutos. '
+                    "title": "Apresentações",
+                    "content": "As equipes deverão apresentar seus protótipos para concorrer aos prêmios. Podendo ser produtos digitais criados por puro código, designs/layouts, jogos, robôs, etc. Não serão permitidos Power Points, vídeos, ou qualquer outra forma de apresentação que não seja uma demonstração do protótipo que foi desenvolvido em funcionamento. A apresentação do protótipo deverá ocorrer no formato de um Pitch de no máximo 5 minutos. "
                 },
                 {
-                    "title": 'Propriedade Intelectual',
-                    "content": 'Quaisquer direitos de propriedade intelectual, resultantes da execução dos trabalhos, incluindo-se aqui mas não restritos a, inventos, programas de computador, aperfeiçoamentos, metodologias e inovações técnicas, produtos ou processos, privilegiáveis ou não, nos termos da Lei nº 10.973/04 e demais leis de proteção da Propriedade Intelectual, obtidos na execução do presente evento, serão de titularidade das partes envolvidas no projeto. Para a utilização de direitos protegidos por propriedade intelectual, de titularidade de terceiros, necessária para a execução do Projeto, deverá ser apresentada a respectiva licença de uso, sendo proibido o uso de produtos não licenciados. A não observação do procedimento previsto no item anterior, desonerará a FAESA da obrigação de pagamento de indenizações, taxas ou comissões porventura devidas e fixadas em juízo, caso seja arguida por seus titulares a infringência de direitos de propriedade intelectual. '
+                    "title": "Propriedade Intelectual",
+                    "content": "Quaisquer direitos de propriedade intelectual, resultantes da execução dos trabalhos, incluindo-se aqui mas não restritos a, inventos, programas de computador, aperfeiçoamentos, metodologias e inovações técnicas, produtos ou processos, privilegiáveis ou não, nos termos da Lei nº 10.973/04 e demais leis de proteção da Propriedade Intelectual, obtidos na execução do presente evento, serão de titularidade das partes envolvidas no projeto. Para a utilização de direitos protegidos por propriedade intelectual, de titularidade de terceiros, necessária para a execução do Projeto, deverá ser apresentada a respectiva licença de uso, sendo proibido o uso de produtos não licenciados. A não observação do procedimento previsto no item anterior, desonerará a FAESA da obrigação de pagamento de indenizações, taxas ou comissões porventura devidas e fixadas em juízo, caso seja arguida por seus titulares a infringência de direitos de propriedade intelectual. "
                 },
                 {
-                    "title": 'Quem pode participar?',
-                    "content": 'Se você é de outras áreas ou faz cursos que não tem relacão com Tecnologia e Informação, O Hack FAESA acolhe a todos, independente do curso ou área. O evento reúne não só profissionais que trabalham na área da tecnologia, como programadores, designers e demais ligados ao desenvolvimento de software, mas também, pessoas que estudam ou simplesmente gostam da área. Podem participar do evento, alunos de graduação, pós-graduação, cursos técnicos, profissionais (pessoas graduadas), sejam internos ou externos a FAESA, respeitando-se o quantitativo de vagas que se destina a cada uma dessas categorias.'
+                    "title": "Quem pode participar?",
+                    "content": "Se você é de outras áreas ou faz cursos que não tem relacão com Tecnologia e Informação, O Hack FAESA acolhe a todos, independente do curso ou área. O evento reúne não só profissionais que trabalham na área da tecnologia, como programadores, designers e demais ligados ao desenvolvimento de software, mas também, pessoas que estudam ou simplesmente gostam da área. Podem participar do evento, alunos de graduação, pós-graduação, cursos técnicos, profissionais (pessoas graduadas), sejam internos ou externos a FAESA, respeitando-se o quantitativo de vagas que se destina a cada uma dessas categorias."
                 },
 
                 {
-                    "title": 'Compromisso com a Agenda',
-                    "content": 'O evento foi oficialmente iniciado no dia 05/11/2021 às 18h através da Cerimônia de Abertura, que ocorrerá através de vídeo conferência no Zoom e transmitida ao público através do Youtube da FAESA. Pelo menos um membro de cada grupo deve participar deste evento, caso contrário o grupo faltante será desclassificado. Não será permitido uma equipe por completo deixe a plataforma do evento antes das 21h do dia 06/11/2021. Caso isso ocorra, a equipe será desclassificada. Todas as equipes devem se conectar ao Zoom pontualmente às 08h do dia 07/11/2021. Pelo menos um membro da equipe deve comparecer para realizar a apresentação do pitch, caso contrário a equipe será desclassificada.'
+                    "title": "Compromisso com a Agenda",
+                    "content": "O evento foi oficialmente iniciado no dia 05/11/2021 às 18h através da Cerimônia de Abertura, que ocorrerá através de vídeo conferência no Zoom e transmitida ao público através do Youtube da FAESA. Pelo menos um membro de cada grupo deve participar deste evento, caso contrário o grupo faltante será desclassificado. Não será permitido uma equipe por completo deixe a plataforma do evento antes das 21h do dia 06/11/2021. Caso isso ocorra, a equipe será desclassificada. Todas as equipes devem se conectar ao Zoom pontualmente às 08h do dia 07/11/2021. Pelo menos um membro da equipe deve comparecer para realizar a apresentação do pitch, caso contrário a equipe será desclassificada."
                 },
                 {
-                    "title": 'Temas',
-                    "content": 'Os desafios do HACKFAESA Online serão divulgados ao final da Cerimônia de Abertura minutos antes do início da maratona.'
+                    "title": "Temas",
+                    "content": "Os desafios do HACKFAESA Online serão divulgados ao final da Cerimônia de Abertura minutos antes do início da maratona."
                 },
                 {
-                    "title": 'Originalidade do Código',
-                    "content": 'Os participantes são encorajados a utilizar bibliotecas, APIs, e todo o tipo de ferramenta que facilite o desenvolvimento. Mas para manter o Fair-Play, todos devem começar ao mesmo tempo, e sem reutilizar código de projetos anteriores, ou seja, todo o código deverá ser desenvolvido durante o evento e somente no evento. Não há restrição de plataforma. Poderá ser qualquer tipo de aplicação, desenvolvida em qualquer plataforma: WEB, MOBILE, DESKTOP, HARDWARE, CLOUND ou qualquer outra, a exceção dos casos em que o desafio especifique a plataforma a ser utilizada.'
+                    "title": "Originalidade do Código",
+                    "content": "Os participantes são encorajados a utilizar bibliotecas, APIs, e todo o tipo de ferramenta que facilite o desenvolvimento. Mas para manter o Fair-Play, todos devem começar ao mesmo tempo, e sem reutilizar código de projetos anteriores, ou seja, todo o código deverá ser desenvolvido durante o evento e somente no evento. Não há restrição de plataforma. Poderá ser qualquer tipo de aplicação, desenvolvida em qualquer plataforma: WEB, MOBILE, DESKTOP, HARDWARE, CLOUND ou qualquer outra, a exceção dos casos em que o desafio especifique a plataforma a ser utilizada."
                 },
                 {
-                    "title": 'Direitos de Imagem',
-                    "content": 'Ao confirmar sua inscrição, o participante concorda em ceder à equipe do HACKFAESA, os direitos de divulgação de sua imagem em mídias físicas e digitais, tais como jornais, sites, páginas de redes sociais ou qualquer outro meio de comunicação.'
+                    "title": "Direitos de Imagem",
+                    "content": "Ao confirmar sua inscrição, o participante concorda em ceder à equipe do HACKFAESA, os direitos de divulgação de sua imagem em mídias físicas e digitais, tais como jornais, sites, páginas de redes sociais ou qualquer outro meio de comunicação."
                 },
                 {
-                    "title": 'Tamanho das Equipes',
-                    "content": 'Serão formadas no máximo 12 equipes e cada equipe poderá ter no mínimo 3 e no máximo 5 participantes'
+                    "title": "Tamanho das Equipes",
+                    "content": "Serão formadas no máximo 12 equipes e cada equipe poderá ter no mínimo 3 e no máximo 5 participantes"
                 },
                 {
-                    "title": 'Respeito aos Participantes',
-                    "content": 'Todos, independente de raça, idade, cor, religião, posição política, sexo, orientação sexual, experiência profissional e acadêmica ou qualquer outro descritivo de uma pessoa, poderão participar do evento, e deverão ser tratados com respeito.'
+                    "title": "Respeito aos Participantes",
+                    "content": "Todos, independente de raça, idade, cor, religião, posição política, sexo, orientação sexual, experiência profissional e acadêmica ou qualquer outro descritivo de uma pessoa, poderão participar do evento, e deverão ser tratados com respeito."
                 },
             ],
         },
         "sectionDoubts": {
-            "title": 'Dúvidas',
-            "content": 'Para contribuir com uma visão mais esclarecedora para com os nossos participantes, estamos exibindo algumas dúvidas frequentes sobre o evento e suas particularidades juntamente com suas respostas, que vieram a surgir durante as suas edições. ',
+            "title": "Dúvidas",
+            "content": "Para contribuir com uma visão mais esclarecedora para com os nossos participantes, estamos exibindo algumas dúvidas frequentes sobre o evento e suas particularidades juntamente com suas respostas, que vieram a surgir durante as suas edições. ",
             "doubts": [
                 {
-                    "title": '#TEMAS',
-                    "content": 'Serão propostos entre 2 a 5 temas relacionados a situações que fazem parte da rotina diária da sociedade e/ou do mundo corporativo. Os temas serão divulgados apenas no evento, então não se atrase.'
+                    "title": "#TEMAS",
+                    "content": "Serão propostos entre 2 a 5 temas relacionados a situações que fazem parte da rotina diária da sociedade e/ou do mundo corporativo. Os temas serão divulgados apenas no evento, então não se atrase."
                 },
                 {
-                    "title": '#PROJETO',
-                    "content": 'A equipe poderá desenvolver um jogo, um site, um app, um robô, etc... Desde que utilize programação de software, criatividade e tecnologia. Para os desafios corporativos, pode acontecer do formato e plataformas serem específicos.'
+                    "title": "#PROJETO",
+                    "content": "A equipe poderá desenvolver um jogo, um site, um app, um robô, etc... Desde que utilize programação de software, criatividade e tecnologia. Para os desafios corporativos, pode acontecer do formato e plataformas serem específicos."
                 },
                 {
-                    "title": '#LINGUAGEM',
-                    "content": 'Você poderá usar qualquer linguagem de programação. O uso de hardwares, como arduino, raspberry, dentre outros, também é permitido.'
+                    "title": "#LINGUAGEM",
+                    "content": "Você poderá usar qualquer linguagem de programação. O uso de hardwares, como arduino, raspberry, dentre outros, também é permitido."
                 },
                 {
-                    "title": '#EQUIPE',
-                    "content": 'Sua equipe pode ter no mínimo 3, e máximo 5 participantes. Caso não tenha uma equipe formada, encontraremos uma equipe para você no dia do evento. A equipe deve conter estudantes e formados, não pode ser formada exclusivamente por formados.'
+                    "title": "#EQUIPE",
+                    "content": "Sua equipe pode ter no mínimo 3, e máximo 5 participantes. Caso não tenha uma equipe formada, encontraremos uma equipe para você no dia do evento. A equipe deve conter estudantes e formados, não pode ser formada exclusivamente por formados."
                 },
                 {
-                    "title": '#NÃO SOU ALUNO FAESA',
-                    "content": 'Não tem problema se você for aluno de outras faculdades ou se não estiver mais na faculdade, um percentual de ingressos será destinado ao público geral.'
+                    "title": "#NÃO SOU ALUNO FAESA",
+                    "content": "Não tem problema se você for aluno de outras faculdades ou se não estiver mais na faculdade, um percentual de ingressos será destinado ao público geral."
                 },
                 {
-                    "title": '#INICIANTES',
-                    "content": 'Nosso objetivo é que você, que está começando no universo do desenvolvimento, também faça parte deste evento. Teremos monitores durante o Hackathon para te auxiliar.'
+                    "title": "#INICIANTES",
+                    "content": "Nosso objetivo é que você, que está começando no universo do desenvolvimento, também faça parte deste evento. Teremos monitores durante o Hackathon para te auxiliar."
                 },
                 {
-                    "title": '#CERTIFICADO',
-                    "content": 'Todos os participantes do HACKFAESA terão certificado de participação.'
+                    "title": "#CERTIFICADO",
+                    "content": "Todos os participantes do HACKFAESA terão certificado de participação."
                 },
             ]
         },
         "sectionBootcamp": {
-            "title": 'Bootcamp',
-            "content": 'Com objetivo de preparar os participantes para o evento, o HACKFAESA realiza Bootcamps, que são minicursos para orientar seus integrantes sobre ferramentas que podem auxiliar na construção, modelagem e prototipagem do projeto, bem como pode contribuir com conhecimentos de gestão de negócios e aplicabilidade no mercado. Os Bootcamps serão realizados online sendo que estudantes de graduação, formados e estudantes de pós-graduação da FAESA ou de outras instituições, poderão participar dos Bootcamps.',
+            "title": "Bootcamp",
+            "content": "Com objetivo de preparar os participantes para o evento, o HACKFAESA realiza Bootcamps, que são minicursos para orientar seus integrantes sobre ferramentas que podem auxiliar na construção, modelagem e prototipagem do projeto, bem como pode contribuir com conhecimentos de gestão de negócios e aplicabilidade no mercado. Os Bootcamps serão realizados online sendo que estudantes de graduação, formados e estudantes de pós-graduação da FAESA ou de outras instituições, poderão participar dos Bootcamps.",
             "bootcamps": [
                 {
                     "id": 1,
                     "isReady": true,
-                    "title": 'Canva e Design Thinking ',
-                    "date": '08/10/2021',
-                    "hour": '20h às 22h',
-                    "speaker": 'Josy Santos',
-                    "local": 'Online',
-                    "speakerJob": 'Consultora em Inovação Social, Empreendedora e gestora de projetos de empreendedorismo feminino (SEBRAE SC e ENGIE)',
+                    "title": "Canva e Design Thinking ",
+                    "date": "08/10/2021",
+                    "hour": "20h às 22h",
+                    "speaker": "Josy Santos",
+                    "local": "Online",
+                    "speakerJob": "Consultora em Inovação Social, Empreendedora e gestora de projetos de empreendedorismo feminino (SEBRAE SC e ENGIE)",
                     "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
                 },
                 {
                     "id": 2,
                     "isReady": true,
-                    "title": 'Pitch',
-                    "date": '22/10/2021',
-                    "hour": '18h às 20h',
-                    "speaker": 'Henrique Hamerski',
-                    "local": 'Online',
-                    "speakerJob": 'Professor FAESA, consultor de Marketing Digital e idealizador do Projeto "Empreender no Online',
+                    "title": "Pitch",
+                    "date": "22/10/2021",
+                    "hour": "18h às 20h",
+                    "speaker": "Henrique Hamerski",
+                    "local": "Online",
+                    "speakerJob": "Professor FAESA, consultor de Marketing Digital e idealizador do Projeto 'Empreender no Online'",
                     "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
                 },
                 {
                     "id": 3,
                     "isReady": true,
-                    "title": 'UX|UI',
-                    "date": '22/10/2021',
-                    "hour": '20h às 22h',
-                    "speaker": 'Leonardo Sommermeyer',
-                    "local": 'Online',
-                    "speakerJob": 'Design Leader, mentor e recrutador de novos designers.',
+                    "title": "UX|UI",
+                    "date": "22/10/2021",
+                    "hour": "20h às 22h",
+                    "speaker": "Leonardo Sommermeyer",
+                    "local": "Online",
+                    "speakerJob": "Design Leader, mentor e recrutador de novos designers.",
                     "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
                 },
                 {
                     "id": 4,
                     "isReady": true,
-                    "title": 'Desenvolvimento de Soluções Fullstack',
-                    "date": '28/10/2021',
-                    "hour": '18h às 22h',
-                    "speaker": 'Otávio Lube',
-                    "local": 'Online',
-                    "speakerJob": 'Professor FAESA, servidor do TRE, engenheiro especialista em Segurança da Informação, pesquisador na área de Inteligência Artificial, Mineração de Dados Educacionais e Analytics e futuro papai da Malu.',
+                    "title": "Desenvolvimento de Soluções Fullstack",
+                    "date": "28/10/2021",
+                    "hour": "18h às 22h",
+                    "speaker": "Otávio Lube",
+                    "local": "Online",
+                    "speakerJob": "Professor FAESA, servidor do TRE, engenheiro especialista em Segurança da Informação, pesquisador na área de Inteligência Artificial, Mineração de Dados Educacionais e Analytics e futuro papai da Malu.",
                     "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
                 },
             ],
         },
         "sectionSponsors": {
-            "title": 'Apoiadores',
-            "content": 'A cada edição contamos com os nossos constantes patrocinadores e novos apoiadores que consolidam e promovem mais o evento e suas singularidades. Caso haja interesse em entrar como patrocinador em futuras edições do evento, envie um email para contatohackfaesa@gmail.com que iremos passar mais informações. ',
+            "title": "Apoiadores",
+            "content": "A cada edição contamos com os nossos constantes patrocinadores e novos apoiadores que consolidam e promovem mais o evento e suas singularidades. Caso haja interesse em entrar como patrocinador em futuras edições do evento, envie um email para contatohackfaesa@gmail.com que iremos passar mais informações. ",
             "list": [
                 {
-                    "title": 'Hack FAESA - 10° Edição',
+                    "title": "Hack FAESA - 10° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
@@ -314,7 +314,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 9° Edição',
+                    "title": "Hack FAESA - 9° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
@@ -330,7 +330,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 8° Edição',
+                    "title": "Hack FAESA - 8° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/v11.png",
@@ -362,7 +362,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 7° Edição',
+                    "title": "Hack FAESA - 7° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/ish.png",
@@ -381,7 +381,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 6° Edição',
+                    "title": "Hack FAESA - 6° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png",
@@ -408,7 +408,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 5° Edição',
+                    "title": "Hack FAESA - 5° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
@@ -418,7 +418,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 4° Edição',
+                    "title": "Hack FAESA - 4° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
@@ -430,7 +430,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 3° Edição',
+                    "title": "Hack FAESA - 3° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
@@ -439,7 +439,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 2° Edição',
+                    "title": "Hack FAESA - 2° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
@@ -451,7 +451,7 @@
                     ]
                 },
                 {
-                    "title": 'Hack FAESA - 1° Edição',
+                    "title": "Hack FAESA - 1° Edição",
                     "sponsors": [
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/prosperi.png",
@@ -464,22 +464,22 @@
 
         },
         "sectionAwards": {
-            "title": 'Premiações',
-            "content": 'Serão premiados os 3 primeiros lugares, mas além disso as empresas patrocinadoras do evento podem oferecer prêmios extras ou até mesmo se interessarem por algum projeto a ponto de fazer uma parceria com o grupo para o desenvolvimento do mesmo após o Hackathon.',
+            "title": "Premiações",
+            "content": "Serão premiados os 3 primeiros lugares, mas além disso as empresas patrocinadoras do evento podem oferecer prêmios extras ou até mesmo se interessarem por algum projeto a ponto de fazer uma parceria com o grupo para o desenvolvimento do mesmo após o Hackathon.",
             "trophys": [
                 {
-                    "title": '1°Lugar',
-                    "content": 'O vencedor do 1°Lugar leva um cheque de R$1500 reais',
+                    "title": "1°Lugar",
+                    "content": "O vencedor do 1°Lugar leva um cheque de R\$1500 reais",
                     "model": "gold",
                 },
                 {
-                    "title": '2°Lugar',
-                    "content": 'O vencedor do 2°Lugar leva um cheque de R$1000 reais',
+                    "title": "2°Lugar",
+                    "content": "O vencedor do 2°Lugar leva um cheque de R\$1000 reais",
                     "model": "silver",
                 },
                 {
-                    "title": '3°Lugar',
-                    "content": 'O vencedor do 3°Lugar leva um cheque de R$500 reais',
+                    "title": "3°Lugar",
+                    "content": "O vencedor do 3°Lugar leva um cheque de R\$500 reais",
                     "model": "bronze",
                 },
             ],
@@ -487,121 +487,121 @@
         },
     },
     "team": {
-        "title": 'Equipe Organizadora',
-        "content": 'O evento HACKFAESA, além de ser uma ótima oportunidade para desenvolver um projeto inovador, trabalhar em equipe e estabelecer uma ponte com o mercado, promove uma grande experiência na promoção de eventos para o grupo de estudantes que atua na organização, enfatizando que esse projeto foi criado de estudantes para estudantes.',
+        "title": "Equipe Organizadora",
+        "content": "O evento HACKFAESA, além de ser uma ótima oportunidade para desenvolver um projeto inovador, trabalhar em equipe e estabelecer uma ponte com o mercado, promove uma grande experiência na promoção de eventos para o grupo de estudantes que atua na organização, enfatizando que esse projeto foi criado de estudantes para estudantes.",
         "ambassador": {
-            "title": 'Embaixadores',
-            "content": 'Os egressos Celso e Karine trouxeram a idéia do Hackathon para a FAESA e moldaram ela até a 4°edição. Com muita determinação e disposição, eles realçaram a importância, o conceito e o propósito do evento estruturando uma boa base para as futuras gerações do HACKFAESA.',
+            "title": "Embaixadores",
+            "content": "Os egressos Celso e Karine trouxeram a idéia do Hackathon para a FAESA e moldaram ela até a 4°edição. Com muita determinação e disposição, eles realçaram a importância, o conceito e o propósito do evento estruturando uma boa base para as futuras gerações do HACKFAESA.",
             "list": [
                 {
-                    "name": 'Celso Palmeira',
+                    "name": "Celso Palmeira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user4.jpg",
                 },
                 {
-                    "name": 'Karine Liuti',
+                    "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg",
                 },
             ],
         },
         "organizer": {
-            "title": 'Organizadores',
-            "content": 'Com muito mais vigor e energia, a organização do evento se fortaleceu com novos integrantes e convicções, ampliando os horizontes do HACKFAESA e que promete inovar muito mais. ',
+            "title": "Organizadores",
+            "content": "Com muito mais vigor e energia, a organização do evento se fortaleceu com novos integrantes e convicções, ampliando os horizontes do HACKFAESA e que promete inovar muito mais. ",
             "list": [
                 {
-                    "name": 'Celso Palmeira',
+                    "name": "Celso Palmeira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user4.jpg",
-                    "badges": ['Embaixador', 'Aluno Egresso FAESA', '1ºEdição - 4ºEdição']
+                    "badges": ["Embaixador", "Aluno Egresso FAESA", "1ºEdição - 4ºEdição"]
                 },
                 {
-                    "name": 'Karine Liuti',
+                    "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg",
-                    "badges": ['Embaixadora', 'Aluna Egresso FAESA', '1ºEdição - 4ºEdição']
+                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição"]
                 },
                 {
-                    "name": 'Cintia Corsini',
+                    "name": "Cintia Corsini",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user5.jpg",
-                    "badges": ['Colaboradora Mov.ie', 'Especialista em Extensão FAESA']
+                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"]
                 },
                 {
-                    "name": 'Fernando Marques',
+                    "name": "Fernando Marques",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user7.jpg",
-                    "badges": ['Colaborador', 'Coordenador UCS FAESA']
+                    "badges": ["Colaborador", "Coordenador UCS FAESA"]
                 },
                 {
-                    "name": 'Otavio Lube',
+                    "name": "Otavio Lube",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user14.jpg",
-                    "badges": ['Colaborador', 'Docente FAESA']
+                    "badges": ["Colaborador", "Docente FAESA"]
                 },
                 {
-                    "name": 'Howard Roatti',
+                    "name": "Howard Roatti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user9.jpg",
-                    "badges": ['Colaborador', 'Docente FAESA']
+                    "badges": ["Colaborador", "Docente FAESA"]
                 },
                 {
-                    "name": 'Wesley Amorim',
+                    "name": "Wesley Amorim",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user19.jpg",
-                    "badges": ['Organizador', 'Diretor Comercial', 'Aluno Egresso FAESA', '5ºEdição - 10ºEdição']
+                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": 'Gabrieal Ramos',
+                    "name": "Gabrieal Ramos",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user8.jpg",
-                    "badges": ['Organizador', 'Diretor de Tecnologia', 'Aluno Egresso FAESA', '5ºEdição - 10ºEdição']
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": 'Driealy Rocha',
+                    "name": "Driealy Rocha",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user6.jpg",
-                    "badges": ['Organizadora', 'Diretora de Operações', 'Aluno Egresso FAESA', '5ºEdição - 10ºEdição']
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": 'Vitor Moreira',
+                    "name": "Vitor Moreira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user17.jpg",
-                    "badges": ['Organizador', 'Diretor de Operações', 'Aluno Egresso FAESA', '5ºEdição - 10ºEdição']
+                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": 'Bruna Vieira',
+                    "name": "Bruna Vieira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user2.jpg",
-                    "badges": ['Organizadora', 'Diretora de Gestão', 'Aluno Egresso FAESA', '5ºEdição - 10ºEdição']
+                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": 'Stephan Domingues',
+                    "name": "Stephan Domingues",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user15.jpg",
-                    "badges": ['Organizador', 'Diretor de Gestão', 'Aluno Egresso FAESA', '5ºEdição - 10ºEdição']
+                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": 'Myrella Freitas',
+                    "name": "Myrella Freitas",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user13.jpg",
-                    "badges": ['Organizadora', 'Diretora Comercial', 'Aluno FAESA', '10ºEdição']
+                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição"]
                 },
                 {
-                    "name": 'Milena Cardoso',
+                    "name": "Milena Cardoso",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user12.jpg",
-                    "badges": ['Organizadora', 'Diretora de Operações', 'Aluno FAESA', '10ºEdição']
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição"]
                 },
                 {
-                    "name": 'Jair Batista',
+                    "name": "Jair Batista",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user10.jpg",
-                    "badges": ['Organizador', 'Diretor de Tecnologia', 'Aluno FAESA', '10ºEdição']
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
                 },
                 {
-                    "name": 'André Fernandes',
+                    "name": "André Fernandes",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user1.jpg",
-                    "badges": ['Organizador', 'Diretor de Tecnologia', 'Aluno FAESA', '10ºEdição']
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
                 },
 
                 {
-                    "name": 'Vitor Siqueira',
+                    "name": "Vitor Siqueira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user18.jpg",
-                    "badges": ['Ex-organizador', 'Aluno Egresso FAESA', '5ºEdição - 8ºEdição']
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
                 },
                 {
-                    "name": 'Bruno Talhate',
+                    "name": "Bruno Talhate",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user3.jpg",
-                    "badges": ['Ex-organizador', 'Aluno Egresso FAESA', '5ºEdição - 8ºEdição']
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
                 },
                 {
-                    "name": 'Thomaz Oro',
+                    "name": "Thomaz Oro",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user16.jpg",
-                    "badges": ['Ex-organizador', 'Aluno Egresso FAESA', '5ºEdição - 8ºEdição']
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
                 },
 
             ],
@@ -609,8 +609,8 @@
     },
     "news": {
         "sectionFeedbacks": {
-            "title": 'Feedbacks',
-            "content": 'Após os eventos, buscamos sempre um feedback dos nossos participantes, em formato de depoimentos, fotos ou contratações de empresas interessadas nos grupos.',
+            "title": "Feedbacks",
+            "content": "Após os eventos, buscamos sempre um feedback dos nossos participantes, em formato de depoimentos, fotos ou contratações de empresas interessadas nos grupos.",
             "feedbacks": [
                 "Network bastante interessante, conhece muito gente nova com projetos e formas diferentes de abordar um tema.",
                 "Tivemos total apoio dos Professores e da equipe organizadora com uma ótima estrutura. Nos deram todo um aparato necessario para desenvolver nossa solução e  já esperamos a próxima edição do evento.",
@@ -625,88 +625,88 @@
             "content": "",
             "videos": [
                 {
-                    "title": 'HACK 5.0',
+                    "title": "HACK 5.0",
                     "src": "https://www.youtube.com/embed/RonfR9RMC2k?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560"
                 },
                 {
-                    "title": 'HACK 6.0',
+                    "title": "HACK 6.0",
                     "src": "https://www.youtube.com/embed/wISAWRDJf8w?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560"
                 },
             ]
         },
         "sectionWinners": {
-            "title": 'Vencedores',
-            "content": 'Os ganhadores das edições passadas, além do prêmio em dinheiro, eles alcançam uma profunda experiência em como lidar com o mercado através do trabalho de equipe.',
+            "title": "Vencedores",
+            "content": "Os ganhadores das edições passadas, além do prêmio em dinheiro, eles alcançam uma profunda experiência em como lidar com o mercado através do trabalho de equipe.",
             "winners": [
                 {
                     "edition": 10,
-                    "galleryLink": 'https://photos.app.goo.gl/yzPEuQss6jRfoa518',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/AM-JKLXTwi21aRkcihSzft8s9_l5JmjGQraRpq7Au1-8Unk5qJdw8SjJqzjkwg7FpIIX1-PXQsMtCu5sOOSJu1JCXqQv7cMFKkUg5fBoGaxi91TojyetzrfcR55uosWgexIeG84ezGib8uUh-c-JbUy8FgnA=w640-h360-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/AM-JKLX1GqXT9gWfso74nhQLoUVZVxt6tFdYkCv9bXHf8AIja8Zn3vr6x2yciE_jUSpYcBplkxsq7komE4pGYLaUvx6D3xTAWYGrP9JyyhQX8UkeBymdY7L6VeEmsVwplqLKQPOAc0d2JZhfw7YgOUb8KVs0=w640-h360-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/AM-JKLWU5y4CwpwfddWbzELHtD-A1wkDlohgl8VlA4VNv44sqc3ZhRsq7HEmgmJUvdN_12DVbAFxuxLJ1Bj3JgYAxgM2G-hBwcewLJ9RRorlkGru7NPHRmfNgKLfm39morPSBlHrRSStZxcGthiVV3g9j8nf=w640-h360-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/yzPEuQss6jRfoa518",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLXTwi21aRkcihSzft8s9_l5JmjGQraRpq7Au1-8Unk5qJdw8SjJqzjkwg7FpIIX1-PXQsMtCu5sOOSJu1JCXqQv7cMFKkUg5fBoGaxi91TojyetzrfcR55uosWgexIeG84ezGib8uUh-c-JbUy8FgnA=w640-h360-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLX1GqXT9gWfso74nhQLoUVZVxt6tFdYkCv9bXHf8AIja8Zn3vr6x2yciE_jUSpYcBplkxsq7komE4pGYLaUvx6D3xTAWYGrP9JyyhQX8UkeBymdY7L6VeEmsVwplqLKQPOAc0d2JZhfw7YgOUb8KVs0=w640-h360-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLWU5y4CwpwfddWbzELHtD-A1wkDlohgl8VlA4VNv44sqc3ZhRsq7HEmgmJUvdN_12DVbAFxuxLJ1Bj3JgYAxgM2G-hBwcewLJ9RRorlkGru7NPHRmfNgKLfm39morPSBlHrRSStZxcGthiVV3g9j8nf=w640-h360-no?authuser=0",
                 },
                 {
                     "edition": 9,
-                    "galleryLink": 'https://photos.app.goo.gl/vGM2QX3anTQ7NGRx7',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3f6q22AmtcAbxTn-JShYg3rf8bm5Ve04cDMYgurdZpx6muhbGRpJVelhCdERatOEH7q4xFf9ClcE_IJmKiQ60lJi0OLAsbNcfm5WHVD1S0D9MU_q-43-iKMwDIJnVMYUP7TQf544iOL1s-_GVWXZjug=w845-h380-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eoAkmMXS2TXjlWy4gWXgVvakPF3dMBuz-bgwVM7Wa5ix4B9j2f4JeGn9gl52b8KGqcW5zpMTHTIxL_vvZjp2XV2a0nQ_vT1JuH0P62bmTxWDrXPLkKhYbYvGmD0HKmrVymmfw8Kp2PpsL5A9zb690S=w690-h400-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eeGZANtcZFpDYSZ5MeX7mVcXjbsGAAcX1IGjeeuJpwxuPirMJzbF9Oe5V5IVdszd5eecRqsZQ4ypOx_SUGcaqrdt6VIjFuDzwwXjUn6XXez6rWajblE_9mwPso9YgS0d2HexL9f5sjpMf3JR0K9Fdt=w1366-h565-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/vGM2QX3anTQ7NGRx7",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3f6q22AmtcAbxTn-JShYg3rf8bm5Ve04cDMYgurdZpx6muhbGRpJVelhCdERatOEH7q4xFf9ClcE_IJmKiQ60lJi0OLAsbNcfm5WHVD1S0D9MU_q-43-iKMwDIJnVMYUP7TQf544iOL1s-_GVWXZjug=w845-h380-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eoAkmMXS2TXjlWy4gWXgVvakPF3dMBuz-bgwVM7Wa5ix4B9j2f4JeGn9gl52b8KGqcW5zpMTHTIxL_vvZjp2XV2a0nQ_vT1JuH0P62bmTxWDrXPLkKhYbYvGmD0HKmrVymmfw8Kp2PpsL5A9zb690S=w690-h400-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eeGZANtcZFpDYSZ5MeX7mVcXjbsGAAcX1IGjeeuJpwxuPirMJzbF9Oe5V5IVdszd5eecRqsZQ4ypOx_SUGcaqrdt6VIjFuDzwwXjUn6XXez6rWajblE_9mwPso9YgS0d2HexL9f5sjpMf3JR0K9Fdt=w1366-h565-no?authuser=0",
                 },
                 {
                     "edition": 8,
-                    "galleryLink": 'https://photos.app.goo.gl/V8gokQZ5q3BkcMoF8',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3f_UzEJbV9pPZzvRddkRWpmYFAXP7y8p_LNkn3cFMJlz0ZtmOG7HSha_nxwG71tL1gZ4yQlufNyDsF2YmywO-Q_9cz1UcHcx8f7AozvCfbaYWVD5L8j2AnxaDnB3M8CMow6Fx0lu10ous9DcbVo8_6l=w1389-h781-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eYbeet65Hsdpsdkai_-K8ev8TWRd0lQ_5itSzf67S_TRyKan_t8GRQP0p3GONC9WB3j-tFR5FFlqc7xRXJmA6iealaVNQceouTSiJwlFs0IEs2VyNNAL1QxRXrMqAUH_nogUZd_E17sk29h1WDLaXKn=w1389-h781-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3fsu8fBz9luGGUWDJ2IIee1fyziIE3n6smGS7u5ObUnfUItiVK9mMkUQdGIprv3hGJ7thCyGiHeTgOdAVZIJqfU-oeiWZt_CkoD-goKDS5_1l-t4rXyS_JeB0r8vTqbm4gDVMzucF1h_ZjWT8Ljw-Tb=w1389-h781-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/V8gokQZ5q3BkcMoF8",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3f_UzEJbV9pPZzvRddkRWpmYFAXP7y8p_LNkn3cFMJlz0ZtmOG7HSha_nxwG71tL1gZ4yQlufNyDsF2YmywO-Q_9cz1UcHcx8f7AozvCfbaYWVD5L8j2AnxaDnB3M8CMow6Fx0lu10ous9DcbVo8_6l=w1389-h781-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eYbeet65Hsdpsdkai_-K8ev8TWRd0lQ_5itSzf67S_TRyKan_t8GRQP0p3GONC9WB3j-tFR5FFlqc7xRXJmA6iealaVNQceouTSiJwlFs0IEs2VyNNAL1QxRXrMqAUH_nogUZd_E17sk29h1WDLaXKn=w1389-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fsu8fBz9luGGUWDJ2IIee1fyziIE3n6smGS7u5ObUnfUItiVK9mMkUQdGIprv3hGJ7thCyGiHeTgOdAVZIJqfU-oeiWZt_CkoD-goKDS5_1l-t4rXyS_JeB0r8vTqbm4gDVMzucF1h_ZjWT8Ljw-Tb=w1389-h781-no?authuser=0",
                 },
                 {
                     "edition": 7,
-                    "galleryLink": 'https://photos.app.goo.gl/Cdz2pX93VBRKzKPv9',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3dicaXBDUcpTuEasRKmmjGa9OaEKBe2m6MyPnkBccEaOJNYSDJIthOmcBYH4xy_rn1PdVI7lDulNhRxR3c5u6kGo4_eXIryFKgj8Hg-_LbwHVHhHaQxEcNp0Yae_abk7wNYfEcPqC6dLHrRxeIFcD5b=w1389-h781-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eGEhMlE6z-zyn3Oyb4PqPYFAuY6uWMrI2CsbjKoDN6NBUfn17Gy8dAk_alHNlMEIHWTuHBUqgef16YetNzFVtWhVnwbM_qyu5pEW2Ua6BOqkHUZ-sBRPIlktzCTYOazVzPCQS3ouWyd5rqaO8h7U3Y=w1389-h781-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3d8FdWTk2Ul7H2zU_sUMzpEfsLayidpgw1SZ57eZ-ki6oeghmIo3PPLtk1extFVi1PhTX_Y3Pe5Kari3_o6X7wr3nZhFXh9kE66RsjiZuPTfwFcQ2sgrtQ2e_QZ5SZVVEynLs7ZukAZZ4_GkAPFtVtt=w1389-h781-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/Cdz2pX93VBRKzKPv9",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3dicaXBDUcpTuEasRKmmjGa9OaEKBe2m6MyPnkBccEaOJNYSDJIthOmcBYH4xy_rn1PdVI7lDulNhRxR3c5u6kGo4_eXIryFKgj8Hg-_LbwHVHhHaQxEcNp0Yae_abk7wNYfEcPqC6dLHrRxeIFcD5b=w1389-h781-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eGEhMlE6z-zyn3Oyb4PqPYFAuY6uWMrI2CsbjKoDN6NBUfn17Gy8dAk_alHNlMEIHWTuHBUqgef16YetNzFVtWhVnwbM_qyu5pEW2Ua6BOqkHUZ-sBRPIlktzCTYOazVzPCQS3ouWyd5rqaO8h7U3Y=w1389-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3d8FdWTk2Ul7H2zU_sUMzpEfsLayidpgw1SZ57eZ-ki6oeghmIo3PPLtk1extFVi1PhTX_Y3Pe5Kari3_o6X7wr3nZhFXh9kE66RsjiZuPTfwFcQ2sgrtQ2e_QZ5SZVVEynLs7ZukAZZ4_GkAPFtVtt=w1389-h781-no?authuser=0",
                 },
                 {
                     "edition": 6,
-                    "galleryLink": 'https://photos.app.goo.gl/95rMKpxqtKLBnWFY7',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3fl3uDmlsbRp_zIqWomjS82YhIFYT0iUC1wNVCCMvGeIdQgcbhySP5Wx_NHtfl83jYKQHxeHEsocY_6iTnVLGBbLiUqS-7i85jm3Y4KrPiCltBjpdwLQOvFfubp1QUoEhiB9KetH7aUQaI0VsA7U5Sn=w960-h720-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3csC7hHOME2IHgbSR0EAzBOIgCnRHfciYmIN-LY-pct0ac5c1kJSe3_-0bAa1NAzIHTcxMH5Rgy0Sm1Tatv3oNX0lQx3L-oWw1VdQMqln_3s87TiQeRR-z1cUqlFRDAClDhEc4F0s5mNJPSXIwFC8Dk=w960-h720-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3fKmzUAzo6yCaPtu-HuvlN_c549tzRDvYrrds8o2Sa0_DeGBt06KzxIc5nWzAJS-pSuLtVZhT9RaHT8-pqIVkLfo4auZQXW-ahvVqVmQBRyY0_9AD49cvNsjAhtmFyv8gCoiweFHDMAbH2N2YGTfHQ-=w960-h720-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/95rMKpxqtKLBnWFY7",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fl3uDmlsbRp_zIqWomjS82YhIFYT0iUC1wNVCCMvGeIdQgcbhySP5Wx_NHtfl83jYKQHxeHEsocY_6iTnVLGBbLiUqS-7i85jm3Y4KrPiCltBjpdwLQOvFfubp1QUoEhiB9KetH7aUQaI0VsA7U5Sn=w960-h720-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3csC7hHOME2IHgbSR0EAzBOIgCnRHfciYmIN-LY-pct0ac5c1kJSe3_-0bAa1NAzIHTcxMH5Rgy0Sm1Tatv3oNX0lQx3L-oWw1VdQMqln_3s87TiQeRR-z1cUqlFRDAClDhEc4F0s5mNJPSXIwFC8Dk=w960-h720-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fKmzUAzo6yCaPtu-HuvlN_c549tzRDvYrrds8o2Sa0_DeGBt06KzxIc5nWzAJS-pSuLtVZhT9RaHT8-pqIVkLfo4auZQXW-ahvVqVmQBRyY0_9AD49cvNsjAhtmFyv8gCoiweFHDMAbH2N2YGTfHQ-=w960-h720-no?authuser=0",
                 },
                 {
                     "edition": 5,
-                    "galleryLink": 'https://photos.app.goo.gl/CWS2F4rnXh1cMoYB9',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3cYyk21wPQaso7wrfnMOLSU8hGh5fHapDBHSIWrXVsDWwu-SRfLr0xqR0V4FBJqhRQORb5P-kPhVCZoGxw-8tbzc3ovwzuMRDwpYVSvmqJl5zQGbVjpxEP-q0xvfIVR9-KXlocCj_fsfOfZKjEL3IT7=w1024-h641-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3fNZzTCrfqOuCb0NBdNW8kx2KL23ywc_mGXnYK7ycW1t2VXykcBJwSByRYCOYFYvSbqP3zNDXxkL0RGCLhtlw3z7FoSHpU90jxKVIJDmBDgIATM4XS7B817caBi73gkBDSuRdk7xZ0j8E04BWOsOtJi=w1024-h650-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eoeKQGLxBQA7BLxTDqesqMRw748ubzWKdusvAoOMuM-aND9Me0aCPcYdgmAOjviUOzDm0pK6zHQbFohD3TiioT6NPP0GZdVBWTLzysBgy3kFZl2dh9Zyz4lB-vW2rlZtwpACg6kKAlHbya5RdKVVBD=w1024-h631-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/CWS2F4rnXh1cMoYB9",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cYyk21wPQaso7wrfnMOLSU8hGh5fHapDBHSIWrXVsDWwu-SRfLr0xqR0V4FBJqhRQORb5P-kPhVCZoGxw-8tbzc3ovwzuMRDwpYVSvmqJl5zQGbVjpxEP-q0xvfIVR9-KXlocCj_fsfOfZKjEL3IT7=w1024-h641-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fNZzTCrfqOuCb0NBdNW8kx2KL23ywc_mGXnYK7ycW1t2VXykcBJwSByRYCOYFYvSbqP3zNDXxkL0RGCLhtlw3z7FoSHpU90jxKVIJDmBDgIATM4XS7B817caBi73gkBDSuRdk7xZ0j8E04BWOsOtJi=w1024-h650-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eoeKQGLxBQA7BLxTDqesqMRw748ubzWKdusvAoOMuM-aND9Me0aCPcYdgmAOjviUOzDm0pK6zHQbFohD3TiioT6NPP0GZdVBWTLzysBgy3kFZl2dh9Zyz4lB-vW2rlZtwpACg6kKAlHbya5RdKVVBD=w1024-h631-no?authuser=0",
                 },
                 {
                     "edition": 4,
-                    "galleryLink": 'https://photos.app.goo.gl/23WNQckzLDXVKeuX7',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3cyM25CVyqFYCIpwIQnkiFX7nM0CLC-DHaXxuPo56-yPEopCjRE3JuhzCTmjhzSkNk2jUO93661sYp3lb_TbRMN1xHCHZQhINgvyE58jrlLovGQu9RV0yqelaFUL7-GYJ9bY-ZpAZpSr7TLIjJw6DoB=w1172-h781-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3cAzl5o6nEC9fn18vjgh8Cykl-O96Uvf7iNSmMKP1-2I0FSk4f_XRAomvl31wcKTlcAJoH3ip-ms6rZyl-9rxq1YxAC5-04NUf37HsLo4pPSEyTFoVBuCoJjf-ixT3u-07GrfndCyb2Krbm6oswl6po=w1172-h781-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3fxRNsKvKsvIp1rZjqLDKyegKB8Xvka6TiVVMmxIKZQeZnNd9VsMfRHfzETCWM9ZILBhu7c5DCl6SDzpcyNeAhQYoTpWf_a6WwOZkz4wfimTg6mtECypzV65-DXCAoEUnQRjvEWy6Fkm2PkTn7zZqkR=w1172-h781-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/23WNQckzLDXVKeuX7",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cyM25CVyqFYCIpwIQnkiFX7nM0CLC-DHaXxuPo56-yPEopCjRE3JuhzCTmjhzSkNk2jUO93661sYp3lb_TbRMN1xHCHZQhINgvyE58jrlLovGQu9RV0yqelaFUL7-GYJ9bY-ZpAZpSr7TLIjJw6DoB=w1172-h781-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cAzl5o6nEC9fn18vjgh8Cykl-O96Uvf7iNSmMKP1-2I0FSk4f_XRAomvl31wcKTlcAJoH3ip-ms6rZyl-9rxq1YxAC5-04NUf37HsLo4pPSEyTFoVBuCoJjf-ixT3u-07GrfndCyb2Krbm6oswl6po=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fxRNsKvKsvIp1rZjqLDKyegKB8Xvka6TiVVMmxIKZQeZnNd9VsMfRHfzETCWM9ZILBhu7c5DCl6SDzpcyNeAhQYoTpWf_a6WwOZkz4wfimTg6mtECypzV65-DXCAoEUnQRjvEWy6Fkm2PkTn7zZqkR=w1172-h781-no?authuser=0",
                 },
                 {
                     "edition": 3,
-                    "galleryLink": 'https://photos.app.goo.gl/NZBb97T5KRUzq4yG7',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3cpwWUaLenWtKhUG6kHoloiAOrgYepXstFItCA-YZpuVO42Naz1nrWCJxKtNzH27PCAQj4J9EMpxWUqFty2so97ei-2VPXrdQ9HsllhvsjvPUGsf3FJbXrJhd7_b149FCyHVO9rGAtTRstPH2COyWOn=w1024-h683-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3elg7gSpgxJZBggIlMyaOJSEGD8idXdEbiQN9YQnVJQIM5livx5WkbPpDy4m_cFKf3T9Z-H17mb3MFKJbdTno1RYl-DQsH3Lyvyhq4NdFVyFpEiMFNTIQ_eFoLJlUJQhcCPUUB_JwiU1yWA-1RgIkgg=w1024-h683-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/NZBb97T5KRUzq4yG7",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cpwWUaLenWtKhUG6kHoloiAOrgYepXstFItCA-YZpuVO42Naz1nrWCJxKtNzH27PCAQj4J9EMpxWUqFty2so97ei-2VPXrdQ9HsllhvsjvPUGsf3FJbXrJhd7_b149FCyHVO9rGAtTRstPH2COyWOn=w1024-h683-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3elg7gSpgxJZBggIlMyaOJSEGD8idXdEbiQN9YQnVJQIM5livx5WkbPpDy4m_cFKf3T9Z-H17mb3MFKJbdTno1RYl-DQsH3Lyvyhq4NdFVyFpEiMFNTIQ_eFoLJlUJQhcCPUUB_JwiU1yWA-1RgIkgg=w1024-h683-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0",
                 },
                 {
                     "edition": 2,
-                    "galleryLink": 'https://photos.app.goo.gl/T6huxZRnefAczJcy8',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eQXjQ9FA8h3O9xWhYaLyuBZRyeig-D-bvW-Mq9SG27Py5rU0dnrU36xBmulos5-asgpRx_JFPzh_fEaqVTKeB2u08M4varDbBb9SDWNh0WUOBN3N6Uvt675Qk_krZHtcAeT7-Xvo7P6iBuA6qPGPUw=w1172-h781-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3cYpTkpUhui5ZQAL__DeETzDagHPjvag52nA4yI3VHQV_JHr3aMBwuMTF57YWgokQsaJZgOfWnn5GXYw9gKVNZT5HUDLvcqzQSmCIpNle9zS2BBtDCbidPnWGI_nVEbnQL4_RQG0imraXJqdoic7Qgh=w1172-h781-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/T6huxZRnefAczJcy8",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eQXjQ9FA8h3O9xWhYaLyuBZRyeig-D-bvW-Mq9SG27Py5rU0dnrU36xBmulos5-asgpRx_JFPzh_fEaqVTKeB2u08M4varDbBb9SDWNh0WUOBN3N6Uvt675Qk_krZHtcAeT7-Xvo7P6iBuA6qPGPUw=w1172-h781-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cYpTkpUhui5ZQAL__DeETzDagHPjvag52nA4yI3VHQV_JHr3aMBwuMTF57YWgokQsaJZgOfWnn5GXYw9gKVNZT5HUDLvcqzQSmCIpNle9zS2BBtDCbidPnWGI_nVEbnQL4_RQG0imraXJqdoic7Qgh=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0",
                 },
                 {
                     "edition": 1,
-                    "galleryLink": 'https://photos.app.goo.gl/mbPtpD14cWHNEnMB8',
-                    "firstGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eslYzxr9coHSRrg-kpVC9oYiqCC_gMAkpvw1fsXpQNH4Rq_U0jVVFocH4egEC2JUdcnXKr1HlkVACyBZhsy_YJu25wn4oW0EWKgIEGlZrGctDMFdMM3lV1AWZQpnslpFCZx6uP3y1rIpuhoPHZjmIp=w1172-h781-no?authuser=0',
-                    "secondGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3cyvYOri6o3grXjJGqQNOq_B9yM9-NCR2PeHs7mjHE_FeHy_si4DDwH-_qlI6Yp1zWtNkTZCGjK6moXSz4GiWIUNvEkPqL04xchFoyJtfcIKwC-SSQuBpHPfAoM9s7ItqI-UqMPW9O8ocAEdQG6B5T9=w1172-h781-no?authuser=0',
-                    "thirdGroupImage": 'https://lh3.googleusercontent.com/pw/ACtC-3eH0pvMDyPR8CxxuwMCoDbYNf9NuZYfhB7tWvON3pQwZ0DJ3HLGNgiJdnShXOm2GJITQoX40V98YlAxKQ8hwtjRNREVq8wjdIbfpr8xmM7qMjalkktgzZMUuyylX40ooYN_QKvctNXZ0SKC9MnJqKaE=w1172-h781-no?authuser=0',
+                    "galleryLink": "https://photos.app.goo.gl/mbPtpD14cWHNEnMB8",
+                    "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eslYzxr9coHSRrg-kpVC9oYiqCC_gMAkpvw1fsXpQNH4Rq_U0jVVFocH4egEC2JUdcnXKr1HlkVACyBZhsy_YJu25wn4oW0EWKgIEGlZrGctDMFdMM3lV1AWZQpnslpFCZx6uP3y1rIpuhoPHZjmIp=w1172-h781-no?authuser=0",
+                    "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cyvYOri6o3grXjJGqQNOq_B9yM9-NCR2PeHs7mjHE_FeHy_si4DDwH-_qlI6Yp1zWtNkTZCGjK6moXSz4GiWIUNvEkPqL04xchFoyJtfcIKwC-SSQuBpHPfAoM9s7ItqI-UqMPW9O8ocAEdQG6B5T9=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eH0pvMDyPR8CxxuwMCoDbYNf9NuZYfhB7tWvON3pQwZ0DJ3HLGNgiJdnShXOm2GJITQoX40V98YlAxKQ8hwtjRNREVq8wjdIbfpr8xmM7qMjalkktgzZMUuyylX40ooYN_QKvctNXZ0SKC9MnJqKaE=w1172-h781-no?authuser=0",
                 },
             ],
         },
