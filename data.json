@@ -212,31 +212,31 @@
             "content": "Para contribuir com uma visão mais esclarecedora para com os nossos participantes, estamos exibindo algumas dúvidas frequentes sobre o evento e suas particularidades juntamente com suas respostas, que vieram a surgir durante as suas edições. ",
             "doubts": [
                 {
-                    "title": "#TEMAS",
+                    "title": "TEMAS",
                     "content": "Serão propostos entre 2 a 5 temas relacionados a situações que fazem parte da rotina diária da sociedade e/ou do mundo corporativo. Os temas serão divulgados apenas no evento, então não se atrase."
                 },
                 {
-                    "title": "#PROJETO",
+                    "title": "PROJETO",
                     "content": "A equipe poderá desenvolver um jogo, um site, um app, um robô, etc... Desde que utilize programação de software, criatividade e tecnologia. Para os desafios corporativos, pode acontecer do formato e plataformas serem específicos."
                 },
                 {
-                    "title": "#LINGUAGEM",
+                    "title": "LINGUAGEM",
                     "content": "Você poderá usar qualquer linguagem de programação. O uso de hardwares, como arduino, raspberry, dentre outros, também é permitido."
                 },
                 {
-                    "title": "#EQUIPE",
+                    "title": "EQUIPE",
                     "content": "Sua equipe pode ter no mínimo 3, e máximo 5 participantes. Caso não tenha uma equipe formada, encontraremos uma equipe para você no dia do evento. A equipe deve conter estudantes e formados, não pode ser formada exclusivamente por formados."
                 },
                 {
-                    "title": "#NÃO SOU ALUNO FAESA",
+                    "title": "NÃO SOU ALUNO FAESA",
                     "content": "Não tem problema se você for aluno de outras faculdades ou se não estiver mais na faculdade, um percentual de ingressos será destinado ao público geral."
                 },
                 {
-                    "title": "#INICIANTES",
+                    "title": "INICIANTES",
                     "content": "Nosso objetivo é que você, que está começando no universo do desenvolvimento, também faça parte deste evento. Teremos monitores durante o Hackathon para te auxiliar."
                 },
                 {
-                    "title": "#CERTIFICADO",
+                    "title": "CERTIFICADO",
                     "content": "Todos os participantes do HACKFAESA terão certificado de participação."
                 }
             ]
