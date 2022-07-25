@@ -104,7 +104,7 @@
                             "text": "FAESA (Presencial)",
                             "content": " Pitch e Cerimônia de Encerramento"
                         }
-                    ],
+                    ]
                 },
                 {
                     "title": "Críterios de Pontuação",
@@ -130,7 +130,7 @@
                             "text": "5",
                             "content": "Muito Bom"
                         }
-                    ],
+                    ]
                 },
                 {
                     "title": "Vencedores",
@@ -160,8 +160,8 @@
                             "text": "Pitch",
                             "content": "Avaliar a clareza, objetividade, formalidade e criatividade da apresentação"
                         }
-                    ],
-                },
+                    ]
+                }
             ],
             "rules": [
                 {
@@ -205,7 +205,7 @@
                     "title": "Respeito aos Participantes",
                     "content": "Todos, independente de raça, idade, cor, religião, posição política, sexo, orientação sexual, experiência profissional e acadêmica ou qualquer outro descritivo de uma pessoa, poderão participar do evento, e deverão ser tratados com respeito."
                 }
-            ],
+            ]
         },
         "sectionDoubts": {
             "title": "Dúvidas",
@@ -239,7 +239,7 @@
                     "title": "#CERTIFICADO",
                     "content": "Todos os participantes do HACKFAESA terão certificado de participação."
                 }
-            ],
+            ]
         },
         "sectionBootcamp": {
             "title": "Bootcamp",
@@ -481,8 +481,8 @@
                     "content": "O vencedor do 3°Lugar leva um cheque de R$500 reais",
                     "model": "bronze"
                 }
-            ],
-        },
+            ]
+        }
     },
     "team": {
         "title": "Equipe Organizadora",
@@ -499,7 +499,7 @@
                     "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg"
                 }
-            ],
+            ]
         },
         "organizer": {
             "title": "Organizadores",
@@ -629,7 +629,7 @@
                     "title": "HACK 6.0",
                     "src": "https://www.youtube.com/embed/wISAWRDJf8w?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560"
                 }
-            ],
+            ]
         },
         "sectionWinners": {
             "title": "Vencedores",
