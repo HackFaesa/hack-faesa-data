@@ -14,8 +14,8 @@
             {
                 "link": "https://f.hubspotusercontent40.net/hubfs/8767745/EDITAL-%20HACKFAESA_10.pdf",
                 "text": "CONFIRA O EDITAL COMPLETO"
-            },
-        ],
+            }
+        ]
     },
     "footer": {
         "link": "https://www.faesa.br/esta%C3%A7ao-movie"
@@ -32,7 +32,7 @@
             {
                 "link": "https://www.facebook.com/hackfaesa/",
                 "name": "FACEBOOK"
-            },
+            }
         ],
         "pillars": [
             {
@@ -54,7 +54,7 @@
                 "icon": "fas fa-money-check-alt fa-3x",
                 "title": "Invista na sua criação",
                 "content": "Você pode ganhar até R$1000 mostrando seu projeto"
-            },
+            }
         ],
         "promoting": {
             "title": "Promovendo inovação e potencializando o aprendizado",
@@ -76,7 +76,7 @@
             {
                 "number": "20+",
                 "content": "Soluções ganhadoras"
-            },
+            }
         ],
     },
     "event": {
@@ -103,7 +103,7 @@
                         {
                             "text": "FAESA (Presencial)",
                             "content": " Pitch e Cerimônia de Encerramento"
-                        },
+                        }
                     ],
                 },
                 {
@@ -129,7 +129,7 @@
                         {
                             "text": "5",
                             "content": "Muito Bom"
-                        },
+                        }
                     ],
                 },
                 {
@@ -159,7 +159,7 @@
                         {
                             "text": "Pitch",
                             "content": "Avaliar a clareza, objetividade, formalidade e criatividade da apresentação"
-                        },
+                        }
                     ],
                 },
             ],
@@ -204,7 +204,7 @@
                 {
                     "title": "Respeito aos Participantes",
                     "content": "Todos, independente de raça, idade, cor, religião, posição política, sexo, orientação sexual, experiência profissional e acadêmica ou qualquer outro descritivo de uma pessoa, poderão participar do evento, e deverão ser tratados com respeito."
-                },
+                }
             ],
         },
         "sectionDoubts": {
@@ -238,7 +238,7 @@
                 {
                     "title": "#CERTIFICADO",
                     "content": "Todos os participantes do HACKFAESA terão certificado de participação."
-                },
+                }
             ],
         },
         "sectionBootcamp": {
@@ -288,8 +288,8 @@
                     "local": "Online",
                     "speakerJob": "Professor FAESA, servidor do TRE, engenheiro especialista em Segurança da Informação, pesquisador na área de Inteligência Artificial, Mineração de Dados Educacionais e Analytics e futuro papai da Malu.",
                     "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
-                },
-            ],
+                }
+            ]
         },
         "sectionSponsors": {
             "title": "Apoiadores",
@@ -311,7 +311,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sankhya.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 9° Edição",
@@ -327,7 +327,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/vale.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/arcellor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sebrae.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 8° Edição",
@@ -359,7 +359,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/prisma.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cdtv.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 7° Edição",
@@ -378,7 +378,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/totvs.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/mindtech.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/techVitoria.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 6° Edição",
@@ -405,7 +405,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/alarmes.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/byte.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 5° Edição",
@@ -415,7 +415,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/creed.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 4° Edição",
@@ -427,7 +427,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/creed.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/picpay.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 3° Edição",
@@ -436,7 +436,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 2° Edição",
@@ -448,7 +448,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/ish.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cronapp.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/nest.png"
-                    ],
+                    ]
                 },
                 {
                     "title": "Hack FAESA - 1° Edição",
@@ -458,10 +458,9 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png"
-                    ],
-                },
-            ],
-
+                    ]
+                }
+            ]
         },
         "sectionAwards": {
             "title": "Premiações",
@@ -481,7 +480,7 @@
                     "title": "3°Lugar",
                     "content": "O vencedor do 3°Lugar leva um cheque de R$500 reais",
                     "model": "bronze"
-                },
+                }
             ],
         },
     },
@@ -499,7 +498,7 @@
                 {
                     "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg"
-                },
+                }
             ],
         },
         "organizer": {
@@ -601,10 +600,9 @@
                     "name": "Thomaz Oro",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user16.jpg",
                     "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"],
-                },
-
-            ],
-        },
+                }
+            ]
+        }
     },
     "news": {
         "sectionFeedbacks": {
@@ -617,7 +615,7 @@
                 "Muito desafiador e surreal, o evento me mostrou a realidade de ser um profissional na área de T.I., lidando com temas atuais e como buscar a solução através do trabalho em grupo.",
                 "Foi uma experiência ótima, na qual eu nunca esperava ver algo tão grande igual eu vi nesses dias e pretendo no próximo estar aqui de novo.",
                 "Foi uma experiência muito divertida, ganhar o primeiro lugar foi uma surpresa pois o conhecimento para chegar a solução foi adquirido todo em um dia, junto com o suporte do grupo. Estou muito orgulhoso e feliz com que o evento me proporcionou."
-            ],
+            ]
         },
         "sectionVideos": {
             "title": "Vídeos",
@@ -630,7 +628,7 @@
                 {
                     "title": "HACK 6.0",
                     "src": "https://www.youtube.com/embed/wISAWRDJf8w?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560"
-                },
+                }
             ],
         },
         "sectionWinners": {
@@ -706,8 +704,8 @@
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eslYzxr9coHSRrg-kpVC9oYiqCC_gMAkpvw1fsXpQNH4Rq_U0jVVFocH4egEC2JUdcnXKr1HlkVACyBZhsy_YJu25wn4oW0EWKgIEGlZrGctDMFdMM3lV1AWZQpnslpFCZx6uP3y1rIpuhoPHZjmIp=w1172-h781-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cyvYOri6o3grXjJGqQNOq_B9yM9-NCR2PeHs7mjHE_FeHy_si4DDwH-_qlI6Yp1zWtNkTZCGjK6moXSz4GiWIUNvEkPqL04xchFoyJtfcIKwC-SSQuBpHPfAoM9s7ItqI-UqMPW9O8ocAEdQG6B5T9=w1172-h781-no?authuser=0",
                     "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eH0pvMDyPR8CxxuwMCoDbYNf9NuZYfhB7tWvON3pQwZ0DJ3HLGNgiJdnShXOm2GJITQoX40V98YlAxKQ8hwtjRNREVq8wjdIbfpr8xmM7qMjalkktgzZMUuyylX40ooYN_QKvctNXZ0SKC9MnJqKaE=w1172-h781-no?authuser=0"
-                },
-            ],
-        },
-    },
+                }
+            ]
+        }
+    }
 }
