@@ -513,32 +513,32 @@
                 {
                     "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg",
-                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição"],
+                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição"]
                 },
                 {
                     "name": "Cintia Corsini",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user5.jpg",
-                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"],
+                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"]
                 },
                 {
                     "name": "Fernando Marques",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user7.jpg",
-                    "badges": ["Colaborador", "Coordenador UCS FAESA"],
+                    "badges": ["Colaborador", "Coordenador UCS FAESA"]
                 },
                 {
                     "name": "Otavio Lube",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user14.jpg",
-                    "badges": ["Colaborador", "Docente FAESA"],
+                    "badges": ["Colaborador", "Docente FAESA"]
                 },
                 {
                     "name": "Howard Roatti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user9.jpg",
-                    "badges": ["Colaborador", "Docente FAESA"],
+                    "badges": ["Colaborador", "Docente FAESA"]
                 },
                 {
                     "name": "Wesley Amorim",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user19.jpg",
-                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
+                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Gabrieal Ramos",
@@ -548,32 +548,32 @@
                 {
                     "name": "Driealy Rocha",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user6.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Vitor Moreira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user17.jpg",
-                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
+                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Bruna Vieira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user2.jpg",
-                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
+                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Stephan Domingues",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user15.jpg",
-                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
+                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",]
                 },
                 {
                     "name": "Myrella Freitas",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user13.jpg",
-                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição"],
+                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição"]
                 },
                 {
                     "name": "Milena Cardoso",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user12.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição",],
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição",]
                 },
                 {
                     "name": "Jair Batista",
@@ -583,18 +583,18 @@
                 {
                     "name": "André Fernandes",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user1.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"],
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
                 },
 
                 {
                     "name": "Vitor Siqueira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user18.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"],
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
                 },
                 {
                     "name": "Bruno Talhate",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user3.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"],
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
                 },
                 {
                     "name": "Thomaz Oro",
