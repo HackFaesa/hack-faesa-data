@@ -9,16 +9,16 @@
         "buttons": [
             {
                 "link": "https://faesaeventos.4.events/#/eventos/hack-faesa-100---edicao-hibrida",
-                "text": "INSCREVA-SE NO HACKATHON!",
+                "text": "INSCREVA-SE NO HACKATHON!"
             },
             {
                 "link": "https://f.hubspotusercontent40.net/hubfs/8767745/EDITAL-%20HACKFAESA_10.pdf",
-                "text": "CONFIRA O EDITAL COMPLETO",
+                "text": "CONFIRA O EDITAL COMPLETO"
             },
         ],
     },
     "footer": {
-        "link": "https://www.faesa.br/esta%C3%A7ao-movie",
+        "link": "https://www.faesa.br/esta%C3%A7ao-movie"
     },
     "home": {
         "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
@@ -27,33 +27,33 @@
         "socialMedia": [
             {
                 "link": "mailto:contatohackfaesa@gmail.com",
-                "name": "EMAIL",
+                "name": "EMAIL"
             },
             {
                 "link": "https://www.facebook.com/hackfaesa/",
-                "name": "FACEBOOK",
+                "name": "FACEBOOK"
             },
         ],
         "pillars": [
             {
                 "icon": "fas fa-handshake fa-3x ",
                 "title": "Trabalhe em Grupo",
-                "content": "Crie projetos de forma coletiva para agregar mais experiência a sua carreira",
+                "content": "Crie projetos de forma coletiva para agregar mais experiência a sua carreira"
             },
             {
                 "icon": "fas fa-chalkboard-teacher fa-3x",
                 "title": "Apresente sua ideia",
-                "content": "Tenha a oportunidade de aprensentar seu protótipo para uma banca de representantes de empresas",
+                "content": "Tenha a oportunidade de aprensentar seu protótipo para uma banca de representantes de empresas"
             },
             {
                 "icon": "fas fa-users fa-3x",
                 "title": "Networking",
-                "content": "Trabalhe sua rede de contatos conhecendo pessoas que desejam aprimorar suas ideias e empreendimentos",
+                "content": "Trabalhe sua rede de contatos conhecendo pessoas que desejam aprimorar suas ideias e empreendimentos"
             },
             {
                 "icon": "fas fa-money-check-alt fa-3x",
                 "title": "Invista na sua criação",
-                "content": "Você pode ganhar até R$1000 mostrando seu projeto",
+                "content": "Você pode ganhar até R$1000 mostrando seu projeto"
             },
         ],
         "promoting": {
@@ -63,19 +63,19 @@
         "numbers": [
             {
                 "number": "9",
-                "content": "Edições completas em 5 anos",
+                "content": "Edições completas em 5 anos"
             },
             {
                 "number": "70+",
-                "content": "Participantes por edição",
+                "content": "Participantes por edição"
             },
             {
                 "number": "2",
-                "content": "Dias de evento e programação",
+                "content": "Dias de evento e programação"
             },
             {
                 "number": "20+",
-                "content": "Soluções ganhadoras",
+                "content": "Soluções ganhadoras"
             },
         ],
     },
@@ -90,19 +90,19 @@
                     "topics": [
                         {
                             "text": "Microsoft Teams",
-                            "content": "Bootcamps",
+                            "content": "Bootcamps"
                         },
                         {
                             "text": "Zoom + Youtube",
-                            "content": "Abertura da maratona",
+                            "content": "Abertura da maratona"
                         },
                         {
                             "text": "Discord",
-                            "content": "Sala comunitária (interação entre grupos), salas privadas (grupos) e mentorias",
+                            "content": "Sala comunitária (interação entre grupos), salas privadas (grupos) e mentorias"
                         },
                         {
                             "text": "FAESA (Presencial)",
-                            "content": " Pitch e Cerimônia de Encerramento",
+                            "content": " Pitch e Cerimônia de Encerramento"
                         },
                     ],
                 },
@@ -158,7 +158,7 @@
                         },
                         {
                             "text": "Pitch",
-                            "content": "Avaliar a clareza, objetividade, formalidade e criatividade da apresentação",
+                            "content": "Avaliar a clareza, objetividade, formalidade e criatividade da apresentação"
                         },
                     ],
                 },
@@ -166,7 +166,7 @@
             "rules": [
                 {
                     "title": "Programação do Evento",
-                    "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os Bootcamps serão realizados nas datas 08/10/2021 (20h às 22h), 22/10/2021 (18h às 22h) e 28/10/2021 (18h às 22h). Os temas a serem abordados serão Canva/Design Thinking, Desenvolvimento de Soluções Full Stack , UX/UI e Pitch.",
+                    "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os Bootcamps serão realizados nas datas 08/10/2021 (20h às 22h), 22/10/2021 (18h às 22h) e 28/10/2021 (18h às 22h). Os temas a serem abordados serão Canva/Design Thinking, Desenvolvimento de Soluções Full Stack , UX/UI e Pitch."
                 },
                 {
                     "title": "Apresentações",
@@ -254,7 +254,7 @@
                     "speaker": "Josy Santos",
                     "local": "Online",
                     "speakerJob": "Consultora em Inovação Social, Empreendedora e gestora de projetos de empreendedorismo feminino (SEBRAE SC e ENGIE)",
-                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
+                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
                 },
                 {
                     "id": 2,
@@ -265,7 +265,7 @@
                     "speaker": "Henrique Hamerski",
                     "local": "Online",
                     "speakerJob": "Professor FAESA, consultor de Marketing Digital e idealizador do Projeto 'Empreender no Online'",
-                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
+                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
                 },
                 {
                     "id": 3,
@@ -276,7 +276,7 @@
                     "speaker": "Leonardo Sommermeyer",
                     "local": "Online",
                     "speakerJob": "Design Leader, mentor e recrutador de novos designers.",
-                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
+                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
                 },
                 {
                     "id": 4,
@@ -287,7 +287,7 @@
                     "speaker": "Otávio Lube",
                     "local": "Online",
                     "speakerJob": "Professor FAESA, servidor do TRE, engenheiro especialista em Segurança da Informação, pesquisador na área de Inteligência Artificial, Mineração de Dados Educacionais e Analytics e futuro papai da Malu.",
-                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida.",
+                    "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
                 },
             ],
         },
@@ -310,7 +310,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/ish.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sankhya.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png"
                     ],
                 },
                 {
@@ -326,7 +326,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/v11.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/vale.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/arcellor.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sebrae.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sebrae.png"
                     ],
                 },
                 {
@@ -358,7 +358,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/mitoGames.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/prisma.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/es.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cdtv.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cdtv.png"
                     ],
                 },
                 {
@@ -377,7 +377,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/tvVitoria.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/totvs.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/mindtech.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/techVitoria.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/techVitoria.png"
                     ],
                 },
                 {
@@ -404,7 +404,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/sorensen.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/alarmes.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/byte.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/byte.png"
                     ],
                 },
                 {
@@ -414,7 +414,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/creed.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png"
                     ],
                 },
                 {
@@ -426,7 +426,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/creed.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/autoglass.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/picpay.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/picpay.png"
                     ],
                 },
                 {
@@ -435,7 +435,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/faesa.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png"
                     ],
                 },
                 {
@@ -447,7 +447,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/ish.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/cronapp.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/nest.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/nest.png"
                     ],
                 },
                 {
@@ -457,7 +457,7 @@
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/prosperi.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/inflor.png",
                         "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/casacode.png",
-                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png",
+                        "https://raw.githubusercontent.com/HackFaesa/test-data/main/sponsors/r2.png"
                     ],
                 },
             ],
@@ -470,17 +470,17 @@
                 {
                     "title": "1°Lugar",
                     "content": "O vencedor do 1°Lugar leva um cheque de R$1500 reais",
-                    "model": "gold",
+                    "model": "gold"
                 },
                 {
                     "title": "2°Lugar",
                     "content": "O vencedor do 2°Lugar leva um cheque de R$1000 reais",
-                    "model": "silver",
+                    "model": "silver"
                 },
                 {
                     "title": "3°Lugar",
                     "content": "O vencedor do 3°Lugar leva um cheque de R$500 reais",
-                    "model": "bronze",
+                    "model": "bronze"
                 },
             ],
         },
@@ -494,11 +494,11 @@
             "list": [
                 {
                     "name": "Celso Palmeira",
-                    "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user4.jpg",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user4.jpg"
                 },
                 {
                     "name": "Karine Liuti",
-                    "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg"
                 },
             ],
         },
@@ -514,52 +514,52 @@
                 {
                     "name": "Karine Liuti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user11.jpg",
-                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição",],
+                    "badges": ["Embaixadora", "Aluna Egresso FAESA", "1ºEdição - 4ºEdição"],
                 },
                 {
                     "name": "Cintia Corsini",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user5.jpg",
-                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA",],
+                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"],
                 },
                 {
                     "name": "Fernando Marques",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user7.jpg",
-                    "badges": ["Colaborador", "Coordenador UCS FAESA",],
+                    "badges": ["Colaborador", "Coordenador UCS FAESA"],
                 },
                 {
                     "name": "Otavio Lube",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user14.jpg",
-                    "badges": ["Colaborador", "Docente FAESA",],
+                    "badges": ["Colaborador", "Docente FAESA"],
                 },
                 {
                     "name": "Howard Roatti",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user9.jpg",
-                    "badges": ["Colaborador", "Docente FAESA",],
+                    "badges": ["Colaborador", "Docente FAESA"],
                 },
                 {
                     "name": "Wesley Amorim",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user19.jpg",
-                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
+                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
                 },
                 {
                     "name": "Gabrieal Ramos",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user8.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
                 },
                 {
                     "name": "Driealy Rocha",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user6.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
                 },
                 {
                     "name": "Vitor Moreira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user17.jpg",
-                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
+                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
                 },
                 {
                     "name": "Bruna Vieira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user2.jpg",
-                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição",],
+                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"],
                 },
                 {
                     "name": "Stephan Domingues",
@@ -569,7 +569,7 @@
                 {
                     "name": "Myrella Freitas",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user13.jpg",
-                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição",],
+                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição"],
                 },
                 {
                     "name": "Milena Cardoso",
@@ -579,28 +579,28 @@
                 {
                     "name": "Jair Batista",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user10.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição",],
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"],
                 },
                 {
                     "name": "André Fernandes",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user1.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição",],
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"],
                 },
 
                 {
                     "name": "Vitor Siqueira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user18.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição",],
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"],
                 },
                 {
                     "name": "Bruno Talhate",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user3.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição",],
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"],
                 },
                 {
                     "name": "Thomaz Oro",
                     "image": "https://raw.githubusercontent.com/HackFaesa/test-data/main/team/user16.jpg",
-                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição",],
+                    "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"],
                 },
 
             ],
@@ -642,70 +642,70 @@
                     "galleryLink": "https://photos.app.goo.gl/yzPEuQss6jRfoa518",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLXTwi21aRkcihSzft8s9_l5JmjGQraRpq7Au1-8Unk5qJdw8SjJqzjkwg7FpIIX1-PXQsMtCu5sOOSJu1JCXqQv7cMFKkUg5fBoGaxi91TojyetzrfcR55uosWgexIeG84ezGib8uUh-c-JbUy8FgnA=w640-h360-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLX1GqXT9gWfso74nhQLoUVZVxt6tFdYkCv9bXHf8AIja8Zn3vr6x2yciE_jUSpYcBplkxsq7komE4pGYLaUvx6D3xTAWYGrP9JyyhQX8UkeBymdY7L6VeEmsVwplqLKQPOAc0d2JZhfw7YgOUb8KVs0=w640-h360-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLWU5y4CwpwfddWbzELHtD-A1wkDlohgl8VlA4VNv44sqc3ZhRsq7HEmgmJUvdN_12DVbAFxuxLJ1Bj3JgYAxgM2G-hBwcewLJ9RRorlkGru7NPHRmfNgKLfm39morPSBlHrRSStZxcGthiVV3g9j8nf=w640-h360-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/AM-JKLWU5y4CwpwfddWbzELHtD-A1wkDlohgl8VlA4VNv44sqc3ZhRsq7HEmgmJUvdN_12DVbAFxuxLJ1Bj3JgYAxgM2G-hBwcewLJ9RRorlkGru7NPHRmfNgKLfm39morPSBlHrRSStZxcGthiVV3g9j8nf=w640-h360-no?authuser=0"
                 },
                 {
                     "edition": 9,
                     "galleryLink": "https://photos.app.goo.gl/vGM2QX3anTQ7NGRx7",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3f6q22AmtcAbxTn-JShYg3rf8bm5Ve04cDMYgurdZpx6muhbGRpJVelhCdERatOEH7q4xFf9ClcE_IJmKiQ60lJi0OLAsbNcfm5WHVD1S0D9MU_q-43-iKMwDIJnVMYUP7TQf544iOL1s-_GVWXZjug=w845-h380-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eoAkmMXS2TXjlWy4gWXgVvakPF3dMBuz-bgwVM7Wa5ix4B9j2f4JeGn9gl52b8KGqcW5zpMTHTIxL_vvZjp2XV2a0nQ_vT1JuH0P62bmTxWDrXPLkKhYbYvGmD0HKmrVymmfw8Kp2PpsL5A9zb690S=w690-h400-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eeGZANtcZFpDYSZ5MeX7mVcXjbsGAAcX1IGjeeuJpwxuPirMJzbF9Oe5V5IVdszd5eecRqsZQ4ypOx_SUGcaqrdt6VIjFuDzwwXjUn6XXez6rWajblE_9mwPso9YgS0d2HexL9f5sjpMf3JR0K9Fdt=w1366-h565-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eeGZANtcZFpDYSZ5MeX7mVcXjbsGAAcX1IGjeeuJpwxuPirMJzbF9Oe5V5IVdszd5eecRqsZQ4ypOx_SUGcaqrdt6VIjFuDzwwXjUn6XXez6rWajblE_9mwPso9YgS0d2HexL9f5sjpMf3JR0K9Fdt=w1366-h565-no?authuser=0"
                 },
                 {
                     "edition": 8,
                     "galleryLink": "https://photos.app.goo.gl/V8gokQZ5q3BkcMoF8",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3f_UzEJbV9pPZzvRddkRWpmYFAXP7y8p_LNkn3cFMJlz0ZtmOG7HSha_nxwG71tL1gZ4yQlufNyDsF2YmywO-Q_9cz1UcHcx8f7AozvCfbaYWVD5L8j2AnxaDnB3M8CMow6Fx0lu10ous9DcbVo8_6l=w1389-h781-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eYbeet65Hsdpsdkai_-K8ev8TWRd0lQ_5itSzf67S_TRyKan_t8GRQP0p3GONC9WB3j-tFR5FFlqc7xRXJmA6iealaVNQceouTSiJwlFs0IEs2VyNNAL1QxRXrMqAUH_nogUZd_E17sk29h1WDLaXKn=w1389-h781-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fsu8fBz9luGGUWDJ2IIee1fyziIE3n6smGS7u5ObUnfUItiVK9mMkUQdGIprv3hGJ7thCyGiHeTgOdAVZIJqfU-oeiWZt_CkoD-goKDS5_1l-t4rXyS_JeB0r8vTqbm4gDVMzucF1h_ZjWT8Ljw-Tb=w1389-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fsu8fBz9luGGUWDJ2IIee1fyziIE3n6smGS7u5ObUnfUItiVK9mMkUQdGIprv3hGJ7thCyGiHeTgOdAVZIJqfU-oeiWZt_CkoD-goKDS5_1l-t4rXyS_JeB0r8vTqbm4gDVMzucF1h_ZjWT8Ljw-Tb=w1389-h781-no?authuser=0"
                 },
                 {
                     "edition": 7,
                     "galleryLink": "https://photos.app.goo.gl/Cdz2pX93VBRKzKPv9",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3dicaXBDUcpTuEasRKmmjGa9OaEKBe2m6MyPnkBccEaOJNYSDJIthOmcBYH4xy_rn1PdVI7lDulNhRxR3c5u6kGo4_eXIryFKgj8Hg-_LbwHVHhHaQxEcNp0Yae_abk7wNYfEcPqC6dLHrRxeIFcD5b=w1389-h781-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eGEhMlE6z-zyn3Oyb4PqPYFAuY6uWMrI2CsbjKoDN6NBUfn17Gy8dAk_alHNlMEIHWTuHBUqgef16YetNzFVtWhVnwbM_qyu5pEW2Ua6BOqkHUZ-sBRPIlktzCTYOazVzPCQS3ouWyd5rqaO8h7U3Y=w1389-h781-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3d8FdWTk2Ul7H2zU_sUMzpEfsLayidpgw1SZ57eZ-ki6oeghmIo3PPLtk1extFVi1PhTX_Y3Pe5Kari3_o6X7wr3nZhFXh9kE66RsjiZuPTfwFcQ2sgrtQ2e_QZ5SZVVEynLs7ZukAZZ4_GkAPFtVtt=w1389-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3d8FdWTk2Ul7H2zU_sUMzpEfsLayidpgw1SZ57eZ-ki6oeghmIo3PPLtk1extFVi1PhTX_Y3Pe5Kari3_o6X7wr3nZhFXh9kE66RsjiZuPTfwFcQ2sgrtQ2e_QZ5SZVVEynLs7ZukAZZ4_GkAPFtVtt=w1389-h781-no?authuser=0"
                 },
                 {
                     "edition": 6,
                     "galleryLink": "https://photos.app.goo.gl/95rMKpxqtKLBnWFY7",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fl3uDmlsbRp_zIqWomjS82YhIFYT0iUC1wNVCCMvGeIdQgcbhySP5Wx_NHtfl83jYKQHxeHEsocY_6iTnVLGBbLiUqS-7i85jm3Y4KrPiCltBjpdwLQOvFfubp1QUoEhiB9KetH7aUQaI0VsA7U5Sn=w960-h720-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3csC7hHOME2IHgbSR0EAzBOIgCnRHfciYmIN-LY-pct0ac5c1kJSe3_-0bAa1NAzIHTcxMH5Rgy0Sm1Tatv3oNX0lQx3L-oWw1VdQMqln_3s87TiQeRR-z1cUqlFRDAClDhEc4F0s5mNJPSXIwFC8Dk=w960-h720-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fKmzUAzo6yCaPtu-HuvlN_c549tzRDvYrrds8o2Sa0_DeGBt06KzxIc5nWzAJS-pSuLtVZhT9RaHT8-pqIVkLfo4auZQXW-ahvVqVmQBRyY0_9AD49cvNsjAhtmFyv8gCoiweFHDMAbH2N2YGTfHQ-=w960-h720-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fKmzUAzo6yCaPtu-HuvlN_c549tzRDvYrrds8o2Sa0_DeGBt06KzxIc5nWzAJS-pSuLtVZhT9RaHT8-pqIVkLfo4auZQXW-ahvVqVmQBRyY0_9AD49cvNsjAhtmFyv8gCoiweFHDMAbH2N2YGTfHQ-=w960-h720-no?authuser=0"
                 },
                 {
                     "edition": 5,
                     "galleryLink": "https://photos.app.goo.gl/CWS2F4rnXh1cMoYB9",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cYyk21wPQaso7wrfnMOLSU8hGh5fHapDBHSIWrXVsDWwu-SRfLr0xqR0V4FBJqhRQORb5P-kPhVCZoGxw-8tbzc3ovwzuMRDwpYVSvmqJl5zQGbVjpxEP-q0xvfIVR9-KXlocCj_fsfOfZKjEL3IT7=w1024-h641-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fNZzTCrfqOuCb0NBdNW8kx2KL23ywc_mGXnYK7ycW1t2VXykcBJwSByRYCOYFYvSbqP3zNDXxkL0RGCLhtlw3z7FoSHpU90jxKVIJDmBDgIATM4XS7B817caBi73gkBDSuRdk7xZ0j8E04BWOsOtJi=w1024-h650-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eoeKQGLxBQA7BLxTDqesqMRw748ubzWKdusvAoOMuM-aND9Me0aCPcYdgmAOjviUOzDm0pK6zHQbFohD3TiioT6NPP0GZdVBWTLzysBgy3kFZl2dh9Zyz4lB-vW2rlZtwpACg6kKAlHbya5RdKVVBD=w1024-h631-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eoeKQGLxBQA7BLxTDqesqMRw748ubzWKdusvAoOMuM-aND9Me0aCPcYdgmAOjviUOzDm0pK6zHQbFohD3TiioT6NPP0GZdVBWTLzysBgy3kFZl2dh9Zyz4lB-vW2rlZtwpACg6kKAlHbya5RdKVVBD=w1024-h631-no?authuser=0"
                 },
                 {
                     "edition": 4,
                     "galleryLink": "https://photos.app.goo.gl/23WNQckzLDXVKeuX7",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cyM25CVyqFYCIpwIQnkiFX7nM0CLC-DHaXxuPo56-yPEopCjRE3JuhzCTmjhzSkNk2jUO93661sYp3lb_TbRMN1xHCHZQhINgvyE58jrlLovGQu9RV0yqelaFUL7-GYJ9bY-ZpAZpSr7TLIjJw6DoB=w1172-h781-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cAzl5o6nEC9fn18vjgh8Cykl-O96Uvf7iNSmMKP1-2I0FSk4f_XRAomvl31wcKTlcAJoH3ip-ms6rZyl-9rxq1YxAC5-04NUf37HsLo4pPSEyTFoVBuCoJjf-ixT3u-07GrfndCyb2Krbm6oswl6po=w1172-h781-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fxRNsKvKsvIp1rZjqLDKyegKB8Xvka6TiVVMmxIKZQeZnNd9VsMfRHfzETCWM9ZILBhu7c5DCl6SDzpcyNeAhQYoTpWf_a6WwOZkz4wfimTg6mtECypzV65-DXCAoEUnQRjvEWy6Fkm2PkTn7zZqkR=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3fxRNsKvKsvIp1rZjqLDKyegKB8Xvka6TiVVMmxIKZQeZnNd9VsMfRHfzETCWM9ZILBhu7c5DCl6SDzpcyNeAhQYoTpWf_a6WwOZkz4wfimTg6mtECypzV65-DXCAoEUnQRjvEWy6Fkm2PkTn7zZqkR=w1172-h781-no?authuser=0"
                 },
                 {
                     "edition": 3,
                     "galleryLink": "https://photos.app.goo.gl/NZBb97T5KRUzq4yG7",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cpwWUaLenWtKhUG6kHoloiAOrgYepXstFItCA-YZpuVO42Naz1nrWCJxKtNzH27PCAQj4J9EMpxWUqFty2so97ei-2VPXrdQ9HsllhvsjvPUGsf3FJbXrJhd7_b149FCyHVO9rGAtTRstPH2COyWOn=w1024-h683-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3elg7gSpgxJZBggIlMyaOJSEGD8idXdEbiQN9YQnVJQIM5livx5WkbPpDy4m_cFKf3T9Z-H17mb3MFKJbdTno1RYl-DQsH3Lyvyhq4NdFVyFpEiMFNTIQ_eFoLJlUJQhcCPUUB_JwiU1yWA-1RgIkgg=w1024-h683-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0"
                 },
                 {
                     "edition": 2,
                     "galleryLink": "https://photos.app.goo.gl/T6huxZRnefAczJcy8",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eQXjQ9FA8h3O9xWhYaLyuBZRyeig-D-bvW-Mq9SG27Py5rU0dnrU36xBmulos5-asgpRx_JFPzh_fEaqVTKeB2u08M4varDbBb9SDWNh0WUOBN3N6Uvt675Qk_krZHtcAeT7-Xvo7P6iBuA6qPGPUw=w1172-h781-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cYpTkpUhui5ZQAL__DeETzDagHPjvag52nA4yI3VHQV_JHr3aMBwuMTF57YWgokQsaJZgOfWnn5GXYw9gKVNZT5HUDLvcqzQSmCIpNle9zS2BBtDCbidPnWGI_nVEbnQL4_RQG0imraXJqdoic7Qgh=w1172-h781-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3edRRwwu-otZI5iOCnTIc1lVVHL4nRxzvYcockacgf_PB60HqyGNWmFcltCs6KwtGxyFs7NgyxD-9Lb-GPZjzAVyCG_Bnvt90oOA8cDH8XpwRXI-zj1aAHK3aIpUFY8_g1Qsq6RB_pt2QJOpU223V_X=w1172-h781-no?authuser=0"
                 },
                 {
                     "edition": 1,
                     "galleryLink": "https://photos.app.goo.gl/mbPtpD14cWHNEnMB8",
                     "firstGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eslYzxr9coHSRrg-kpVC9oYiqCC_gMAkpvw1fsXpQNH4Rq_U0jVVFocH4egEC2JUdcnXKr1HlkVACyBZhsy_YJu25wn4oW0EWKgIEGlZrGctDMFdMM3lV1AWZQpnslpFCZx6uP3y1rIpuhoPHZjmIp=w1172-h781-no?authuser=0",
                     "secondGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3cyvYOri6o3grXjJGqQNOq_B9yM9-NCR2PeHs7mjHE_FeHy_si4DDwH-_qlI6Yp1zWtNkTZCGjK6moXSz4GiWIUNvEkPqL04xchFoyJtfcIKwC-SSQuBpHPfAoM9s7ItqI-UqMPW9O8ocAEdQG6B5T9=w1172-h781-no?authuser=0",
-                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eH0pvMDyPR8CxxuwMCoDbYNf9NuZYfhB7tWvON3pQwZ0DJ3HLGNgiJdnShXOm2GJITQoX40V98YlAxKQ8hwtjRNREVq8wjdIbfpr8xmM7qMjalkktgzZMUuyylX40ooYN_QKvctNXZ0SKC9MnJqKaE=w1172-h781-no?authuser=0",
+                    "thirdGroupImage": "https://lh3.googleusercontent.com/pw/ACtC-3eH0pvMDyPR8CxxuwMCoDbYNf9NuZYfhB7tWvON3pQwZ0DJ3HLGNgiJdnShXOm2GJITQoX40V98YlAxKQ8hwtjRNREVq8wjdIbfpr8xmM7qMjalkktgzZMUuyylX40ooYN_QKvctNXZ0SKC9MnJqKaE=w1172-h781-no?authuser=0"
                 },
             ],
         },
