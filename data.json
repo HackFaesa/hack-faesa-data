@@ -23,7 +23,7 @@
     "home": {
         "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
         "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias.",
-        "date": "",
+        "date": "05 e 06 de Novembro",
         "socialMedia": [
             {
                 "link": "mailto:contatohackfaesa@gmail.com",
@@ -53,7 +53,7 @@
             {
                 "icon": "fas fa-money-check-alt fa-3x",
                 "title": "Invista na sua criação",
-                "content": "Você pode ganhar até R$1000 mostrando seu projeto"
+                "content": "Sua equipe pode ganhar até R$1500 mostrando seu projeto"
             }
         ],
         "promoting": {
@@ -86,23 +86,15 @@
             "complexrules": [
                 {
                     "title": "Local",
-                    "content": "Esta edição do HACKFAESA ocorrerá ONLINE e PRESENCIAL e as plataformas a serem utilizadas serão:",
+                    "content": "A próxima edição do HACKFAESA será PRESENCIAL",
                     "topics": [
                         {
-                            "text": "Microsoft Teams",
-                            "content": "Bootcamps"
-                        },
-                        {
-                            "text": "Zoom + Youtube",
-                            "content": "Abertura da maratona"
-                        },
-                        {
-                            "text": "Discord",
-                            "content": "Sala comunitária (interação entre grupos), salas privadas (grupos) e mentorias"
-                        },
-                        {
-                            "text": "FAESA (Presencial)",
-                            "content": "Pitch e Cerimônia de Encerramento"
+                            "text": "FAESA - Bloco 4, 6 andar",
+                            "content": "Salas de desenvolvimento, Pitch, Abertura e Cerimônia de Encerramento"
+                        }
+                        ,{
+                            "text": "Bootcamps",
+                            "content": "Em breve"
                         }
                     ]
                 },
@@ -166,7 +158,7 @@
             "rules": [
                 {
                     "title": "Programação do Evento",
-                    "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os Bootcamps serão realizados nas datas 08/10/2021 (20h às 22h), 22/10/2021 (18h às 22h) e 28/10/2021 (18h às 22h). Os temas a serem abordados serão Canva/Design Thinking, Desenvolvimento de Soluções Full Stack , UX/UI e Pitch."
+                    "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os temas a serem abordados serão Canva/Design Thinking, Desenvolvimento de Soluções Full Stack , UX/UI e Pitch. Com datas a serem informadas"
                 },
                 {
                     "title": "Apresentações",
@@ -183,11 +175,11 @@
 
                 {
                     "title": "Compromisso com a Agenda",
-                    "content": "O evento foi oficialmente iniciado no dia 05/11/2021 às 18h através da Cerimônia de Abertura, que ocorrerá através de vídeo conferência no Zoom e transmitida ao público através do Youtube da FAESA. Pelo menos um membro de cada grupo deve participar deste evento, caso contrário o grupo faltante será desclassificado. Não será permitido uma equipe por completo deixe a plataforma do evento antes das 21h do dia 06/11/2021. Caso isso ocorra, a equipe será desclassificada. Todas as equipes devem se conectar ao Zoom pontualmente às 08h do dia 07/11/2021. Pelo menos um membro da equipe deve comparecer para realizar a apresentação do pitch, caso contrário a equipe será desclassificada."
+                    "content": "Pelo menos um membro de cada grupo deve participar deste evento, caso contrário o grupo faltante será desclassificado. Não será permitido uma equipe por completo deixe o local do evento antes das 21h do dia 05/11/2022. Caso isso ocorra, a equipe será desclassificada. Pelo menos um membro da equipe deve comparecer para realizar a apresentação do pitch, caso contrário a equipe será desclassificada."
                 },
                 {
                     "title": "Temas",
-                    "content": "Os desafios do HACKFAESA Online serão divulgados ao final da Cerimônia de Abertura minutos antes do início da maratona."
+                    "content": "Os desafios do HACKFAESA serão divulgados ao final da Cerimônia de Abertura minutos antes do início da maratona."
                 },
                 {
                     "title": "Originalidade do Código",
@@ -247,7 +239,7 @@
             "bootcamps": [
                 {
                     "id": 1,
-                    "isReady": true,
+                    "isReady": false,
                     "title": "Canva e Design Thinking ",
                     "date": "08/10/2021",
                     "hour": "20h às 22h",
@@ -258,7 +250,7 @@
                 },
                 {
                     "id": 2,
-                    "isReady": true,
+                    "isReady": false,
                     "title": "Pitch",
                     "date": "22/10/2021",
                     "hour": "18h às 20h",
@@ -269,7 +261,7 @@
                 },
                 {
                     "id": 3,
-                    "isReady": true,
+                    "isReady": false,
                     "title": "UX|UI",
                     "date": "22/10/2021",
                     "hour": "20h às 22h",
@@ -280,7 +272,7 @@
                 },
                 {
                     "id": 4,
-                    "isReady": true,
+                    "isReady": false,
                     "title": "Desenvolvimento de Soluções Fullstack",
                     "date": "28/10/2021",
                     "hour": "18h às 22h",
