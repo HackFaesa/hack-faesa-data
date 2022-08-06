@@ -502,6 +502,11 @@
                     "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"]
                 },
                 {
+                    "name": "Lucas Passamani",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user20.jpg",
+                    "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"]
+                },
+                {
                     "name": "Fernando Marques",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user7.jpg",
                     "badges": ["Colaborador", "Coordenador UCS FAESA"]
