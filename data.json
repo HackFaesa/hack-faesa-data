@@ -22,8 +22,8 @@
     },
     "home": {
         "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
-        "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias.",
-        "date": "05 e 06 de Novembro",
+        "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. As inscrições para o evento estarão abertas entre os dias 26/09 e 23/10 e os Bootcamps nos dias 24/10 e 28/10.",
+        "date": "Evento: 05 e 06 de Novembro",
         "socialMedia": [
             {
                 "link": "mailto:contatohackfaesa@gmail.com",
@@ -32,6 +32,10 @@
             {
                 "link": "https://www.facebook.com/hackfaesa/",
                 "name": "FACEBOOK"
+            },
+            {
+                "link": "https://www.instagram.com/hack.faesa/",
+                "name": "INSTAGRAM"
             }
         ],
         "pillars": [
@@ -158,7 +162,7 @@
             "rules": [
                 {
                     "title": "Programação do Evento",
-                    "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os temas a serem abordados serão Canva/Design Thinking, Desenvolvimento de Soluções Full Stack , UX/UI e Pitch. Com datas a serem informadas"
+                    "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. Os bootcamps serão realizados entre os dias 24 e 28 de Outubro e o evento será realizado nos dias 05 e 06 de Novembro."
                 },
                 {
                     "title": "Apresentações",
@@ -240,8 +244,8 @@
                 {
                     "id": 1,
                     "isReady": false,
-                    "title": "Em breve",
-                    "date": "08/10/2021",
+                    "title": "Indealização",
+                    "date": "24/10/2022",
                     "hour": "20h às 22h",
                     "speaker": "Josy Santos",
                     "local": "Online",
@@ -251,8 +255,8 @@
                 {
                     "id": 2,
                     "isReady": false,
-                    "title": "Em breve",
-                    "date": "22/10/2021",
+                    "title": "Pitch",
+                    "date": "24/10/2022",
                     "hour": "18h às 20h",
                     "speaker": "Henrique Hamerski",
                     "local": "Online",
@@ -262,8 +266,8 @@
                 {
                     "id": 3,
                     "isReady": false,
-                    "title": "Em breve",
-                    "date": "22/10/2021",
+                    "title": "Prototipação",
+                    "date": "24/10/2022",
                     "hour": "20h às 22h",
                     "speaker": "Leonardo Sommermeyer",
                     "local": "Online",
@@ -524,54 +528,53 @@
                 {
                     "name": "Wesley Amorim",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user19.jpg",
-                    "badges": ["Organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Ex-organizador", "Diretor Comercial", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
-                    "name": "Gabrieal Ramos",
+                    "name": "Gabriel Ramos",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user8.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno Egresso FAESA", "5ºEdição - 11ºEdição"]
                 },
                 {
                     "name": "Driely Rocha",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user6.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Ex-organizadora", "Diretora de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Vitor Moreira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user17.jpg",
-                    "badges": ["Organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Ex-organizador", "Diretor de Operações", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Bruna Vieira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user2.jpg",
-                    "badges": ["Organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Ex-organizadora", "Diretora de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
                 },
                 {
                     "name": "Stephan Domingues",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user15.jpg",
-                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Gestão", "Aluno Egresso FAESA", "5ºEdição - 11ºEdição"]
                 },
                 {
                     "name": "Myrella Freitas",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user13.jpg",
-                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizadora", "Diretora Comercial", "Aluno FAESA", "10ºEdição - 11ºEdição"]
                 },
                 {
                     "name": "Milena Cardoso",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user12.jpg",
-                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizadora", "Diretora de Operações", "Aluno FAESA", "10ºEdição - 11ºEdição"]
                 },
                 {
                     "name": "Jair Batista",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user10.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição - 11ºEdição"]
                 },
                 {
                     "name": "André Fernandes",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user1.jpg",
-                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição"]
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "10ºEdição - 11ºEdição"]
                 },
-
                 {
                     "name": "Vitor Siqueira",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user18.jpg",
@@ -586,6 +589,36 @@
                     "name": "Thomaz Oro",
                     "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user16.jpg",
                     "badges": ["Ex-organizador", "Aluno Egresso FAESA", "5ºEdição - 8ºEdição"]
+                },
+                {
+                    "name": "Marcos Tamas",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user21.jpg",
+                    "badges": ["Organizador", "Diretor de Tecnologia", "Aluno FAESA", "11ºEdição"]
+                },
+                {
+                    "name": "João Pigatti",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user22.jpg",
+                    "badges": ["Organizador", "Diretor de Comercial", "Aluno FAESA", "11ºEdição"]
+                },
+                {
+                    "name": "Rebecca Ribeiro",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user23.jpg",
+                    "badges": ["Organizadora", "Diretora de Comunicação", "Aluna FAESA", "11ºEdição"]
+                },
+                {
+                    "name": "Letícia Rasch",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user24.jpg",
+                    "badges": ["Organizador", "Diretora de Operações", "Aluna FAESA", "11ºEdição"]
+                },
+                {
+                    "name": "Myllena Ramos",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user25.jpg",
+                    "badges": ["Organizador", "Diretora de Comunicação", "Aluna FAESA", "11ºEdição"]
+                },
+                {
+                    "name": "Bernardo Polese",
+                    "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user26.jpg",
+                    "badges": ["Organizador", "Diretor de Operações", "Aluno FAESA", "11ºEdição"]
                 }
             ]
         }
