@@ -1,6 +1,6 @@
 {
     "subscription": {
-        "isAvailable": false,
+        "isAvailable": true,
         "defaultMessage": {
             "title": "Em breve abriremos as inscrições para o Hackthon desse ano, qualquer dúvida ou informação favor entrar em contato pelo email abaixo:",
             "link": "mailto:contatohackfaesa@gmail.com",
