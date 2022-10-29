@@ -26,8 +26,8 @@
     },
     "home": {
         "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
-        "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. As inscrições para o evento estarão abertas entre os dias 03/10 e 23/10 e os Bootcamps nos dias 24/10 e 28/10.",
-        "date": "Evento: 05 e 06 de Novembro",
+        "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. As inscrições para o evento estarão abertas entre os dias 03/10 e 28/10 e os Bootcamps nos dias 24/10 e 28/10.",
+        "date": "Evento: 05 e 06 de Novembro, começando às 8h.",
         "socialMedia": [
             {
                 "link": "mailto:contatohackfaesa@gmail.com",
@@ -275,7 +275,7 @@
                     "hour": "18h30 às 20h",
                     "speaker": "Gabriel Ramos",
                     "local": "Online",
-                    "speakerJob": "Conceitos de prototipacao e Desenvolvimento web/mobile em Flutter",
+                    "speakerJob": "Conceitos de prototipação e Desenvolvimento web/mobile em Flutter",
                     "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
                 }
             ]
