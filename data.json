@@ -149,6 +149,10 @@
                             "content": "É algo realmente útil ? Resolverá algum tipo de problema ou necessidades de um segmento de usuários ?"
                         },
                         {
+                            "text": "Projeto Codificado",
+                            "content": "O grupo criou e apresentou o protótipo usando apenas softwares/framework voltados a programação ?"
+                        },
+                        {
                             "text": "Produto de Mercado",
                             "content": " O quanto o seu produto gera interesse do mercado, ou o quanto ele é fácil de ser comercializado ?"
                         },
