@@ -284,6 +284,12 @@
          "content":"A cada edição contamos com os nossos constantes patrocinadores e novos apoiadores que consolidam e promovem mais o evento e suas singularidades. Caso haja interesse em entrar como patrocinador em futuras edições do evento, envie um email para contatohackfaesa@gmail.com que iremos passar mais informações. ",
          "list":[
             {
+               "title":"Hack FAESA - 12° Edição",
+               "sponsors":[
+                  "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png"
+               ]
+            },
+            {
                "title":"Hack FAESA - 11° Edição",
                "sponsors":[
                   "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
