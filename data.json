@@ -538,7 +538,11 @@
         {
           "name": "Cintia Corsini",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user5.jpg",
-          "badges": ["Colaboradora Mov.ie", "Especialista em Extensão FAESA"]
+          "badges": [
+            "Ex-Colaboradora Mov.ie",
+            "Ex-Especialista em Extensão FAESA",
+            "5ºEdição - 10ºEdição"
+          ]
         },
         {
           "name": "Lucas Passamani",
