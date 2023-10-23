@@ -98,7 +98,7 @@
             },
             {
               "text": "Bootcamps",
-              "content": "A definir"
+              "content": "FAESA e Online"
             }
           ]
         },
@@ -246,32 +246,32 @@
       "bootcamps": [
         {
           "id": 1,
-          "isReady": false,
+          "isReady": true,
           "title": "Idealização",
-          "date": "25/10/2022",
-          "hour": "18h30 às 20h30",
+          "date": "30/10/2023",
+          "hour": "18h30 às 20h15",
           "speaker": "Tiarlen Natan",
-          "local": "FAESA Bloco 4 - 4° Andar",
+          "local": "FAESA Bloco 4 - 4° Andar - Sala 6",
           "speakerJob": "Iniciamos entendendo todos os aspectos que devem ser considerados para avaliar a viabilidade técnica de uma ideia e quais pontos devem ser trabalhados e/ou abandonados.",
           "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
         },
         {
           "id": 2,
-          "isReady": false,
+          "isReady": true,
           "title": "Pitch",
-          "date": "26/10/2022",
-          "hour": "18h30 às 20h30",
+          "date": "08/11/2023",
+          "hour": "18h30 às 20h15",
           "speaker": "Tiarlen Natan",
-          "local": "FAESA Bloco 4 - 4° Andar",
+          "local": "FAESA Bloco 4 - 4° Andar - Sala 6",
           "speakerJob": "Tão importante como comunicar bem o seu projeto para os usuários finais, é comunicar o projeto para os stakeholders decisores para sua continuação e desenvolvimento. O treino em pitch ataca esse ponto.",
           "loadingBootcamps": "Esse Bootcamp esta sendo planejado internamente e em breve terá uma data definida."
         },
         {
           "id": 3,
-          "isReady": false,
+          "isReady": true,
           "title": "Prototipação",
           "date": "07/11/2023",
-          "hour": "18h30 às 20h",
+          "hour": "18h30 às 20h15",
           "speaker": "Otávio Lube",
           "local": "Online",
           "speakerJob": "Conceitos de prototipação e Desenvolvimento web/mobile",
