@@ -1,6 +1,6 @@
 {
   "subscription": {
-    "isAvailable": true,
+    "isAvailable": false,
     "defaultMessage": {
       "title": "Em breve abriremos as inscrições para o Hackthon desse ano, qualquer dúvida ou informação favor entrar em contato pelo email abaixo:",
       "link": "mailto:contatohackfaesa@gmail.com",
@@ -26,8 +26,8 @@
   },
   "home": {
     "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
-    "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. As inscrições para o evento estarão abertas entre os dias 02/10 e 22/10 e os Bootcamps entre os dias 31/10 e 10/11.",
-    "date": "Evento: 18 e 19 de Novembro, iniciando às 8h.",
+    "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. A data das inscrições para o evento e dos bootcamps ainda não foram definidos.",
+    "date": "Evento: data à definir, iniciando às 8h.",
     "socialMedia": [
       {
         "link": "mailto:contatohackfaesa@gmail.com",
@@ -66,11 +66,11 @@
     },
     "numbers": [
       {
-        "number": "11",
-        "content": "Edições completas em 7 anos"
+        "number": "12",
+        "content": "Edições completas em 8 anos"
       },
       {
-        "number": "60+",
+        "number": "50+",
         "content": "Participantes por edição"
       },
       {
@@ -166,7 +166,7 @@
       "rules": [
         {
           "title": "Programação do Evento",
-          "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon. O evento será realizado nos dias 18 e 19 de Novembro."
+          "content": "O HACKFAESA Híbrido será constituído de 2 etapas: Bootcamps e Hackathon."
         },
         {
           "title": "Apresentações",
@@ -246,7 +246,7 @@
       "bootcamps": [
         {
           "id": 1,
-          "isReady": true,
+          "isReady": false,
           "title": "Idealização",
           "date": "30/10/2023",
           "hour": "18h30 às 20h15",
@@ -257,7 +257,7 @@
         },
         {
           "id": 2,
-          "isReady": true,
+          "isReady": false,
           "title": "Pitch",
           "date": "08/11/2023",
           "hour": "18h30 às 20h15",
@@ -268,7 +268,7 @@
         },
         {
           "id": 3,
-          "isReady": true,
+          "isReady": false,
           "title": "Prototipação",
           "date": "07/11/2023",
           "hour": "18h30 às 20h15",
@@ -810,6 +810,13 @@
       "title": "Vencedores",
       "content": "Os ganhadores das edições passadas, além do prêmio em dinheiro, eles alcançam uma profunda experiência em como lidar com o mercado através do trabalho de equipe.",
       "winners": [
+        {
+          "edition": 12,
+          "galleryLink": "https://drive.google.com/drive/folders/1pj2bFAoJiiJamyNFplPmKuhBAurL6H8W",
+          "firstGroupImage": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/winners/12_1.jpg",
+          "secondGroupImage": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/winners/12_2.jpg",
+          "thirdGroupImage": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/winners/12_3.jpg"
+        },
         {
           "edition": 11,
           "galleryLink": "https://photos.app.goo.gl/dwRq7BXbuPnQNfmi8",
