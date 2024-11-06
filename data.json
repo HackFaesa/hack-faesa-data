@@ -1,6 +1,6 @@
 {
   "subscription": {
-    "isAvailable": false,
+    "isAvailable": true,
     "defaultMessage": {
       "title": "Em breve abriremos as inscrições para o Hackthon desse ano, qualquer dúvida ou informação favor entrar em contato pelo email abaixo:",
       "link": "mailto:contatohackfaesa@gmail.com",
@@ -8,15 +8,11 @@
     },
     "buttons": [
       {
-        "link": "https://www.sympla.com.br/evento/hack-faesa-12-0/2176222",
-        "text": "INSCREVA-SE NO HACKATHON! - SOU ALUNO FAESA"
+        "link": "https://www.sympla.com.br/evento/hack-faesa-130/2675641",
+        "text": "INSCREVA-SE NO HACKATHON!"
       },
       {
-        "link": "https://www.sympla.com.br/evento/hack-faesa-12-0/2176222",
-        "text": "INSCREVA-SE NO HACKATHON! - NÃO SOU ALUNO FAESA"
-      },
-      {
-        "link": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/docs/edital2023.pdf",
+        "link": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/docs/edital2024.pdf",
         "text": "CONFIRA O EDITAL COMPLETO"
       }
     ]
