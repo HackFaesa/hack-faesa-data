@@ -280,7 +280,19 @@
       "content": "A cada edição contamos com os nossos constantes patrocinadores e novos apoiadores que consolidam e promovem mais o evento e suas singularidades. Caso haja interesse em entrar como patrocinador em futuras edições do evento, envie um email para contatohackfaesa@gmail.com que iremos passar mais informações. ",
       "list": [
         {
-          "title": "Hack FAESA - 13° Edição",
+          "title": "Hack FAESA - 14ª Edição",
+          "sponsors": [
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/vale.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/arcellor.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/dotcode.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/3-coracoes",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/coroa.png"
+          ]
+        },
+        {
+          "title": "Hack FAESA - 13ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/banestes.png",
@@ -297,7 +309,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 12° Edição",
+          "title": "Hack FAESA - 12ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/vale.png",
@@ -314,7 +326,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 11° Edição",
+          "title": "Hack FAESA - 11ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/arcellor.png",
@@ -328,7 +340,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 10° Edição",
+          "title": "Hack FAESA - 10ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
@@ -346,7 +358,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 9° Edição",
+          "title": "Hack FAESA - 9ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
@@ -362,7 +374,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 8° Edição",
+          "title": "Hack FAESA - 8ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/v11.png",
@@ -394,7 +406,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 7° Edição",
+          "title": "Hack FAESA - 7ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/ish.png",
@@ -413,7 +425,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 6° Edição",
+          "title": "Hack FAESA - 6ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/autoglass.png",
@@ -440,7 +452,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 5° Edição",
+          "title": "Hack FAESA - 5ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
@@ -450,7 +462,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 4° Edição",
+          "title": "Hack FAESA - 4ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
@@ -462,7 +474,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 3° Edição",
+          "title": "Hack FAESA - 3ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
@@ -471,7 +483,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 2° Edição",
+          "title": "Hack FAESA - 2ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/inflor.png",
@@ -483,7 +495,7 @@
           ]
         },
         {
-          "title": "Hack FAESA - 1° Edição",
+          "title": "Hack FAESA - 1ª Edição",
           "sponsors": [
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
             "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/prosperi.png",
@@ -499,18 +511,18 @@
       "content": "Serão premiados os 3 primeiros lugares, mas além disso as empresas patrocinadoras do evento podem oferecer prêmios extras ou até mesmo se interessarem por algum projeto a ponto de fazer uma parceria com o grupo para o desenvolvimento do mesmo após o Hackathon.",
       "trophys": [
         {
-          "title": "1°Lugar",
-          "content": "O vencedor do 1°Lugar leva um cheque de R$1500 reais",
+          "title": "1° Lugar",
+          "content": "O vencedor do 1° Lugar leva um cheque de R$1500 reais",
           "model": "gold"
         },
         {
-          "title": "2°Lugar",
-          "content": "O vencedor do 2°Lugar leva um cheque de R$1000 reais",
+          "title": "2° Lugar",
+          "content": "O vencedor do 2° Lugar leva um cheque de R$1000 reais",
           "model": "silver"
         },
         {
-          "title": "3°Lugar",
-          "content": "O vencedor do 3°Lugar leva um cheque de R$500 reais",
+          "title": "3° Lugar",
+          "content": "O vencedor do 3° Lugar leva um cheque de R$500 reais",
           "model": "bronze"
         }
       ]
@@ -521,7 +533,7 @@
     "content": "O evento HACKFAESA, além de ser uma ótima oportunidade para desenvolver um projeto inovador, trabalhar em equipe e estabelecer uma ponte com o mercado, promove uma grande experiência na promoção de eventos para o grupo de estudantes que atua na organização, enfatizando que esse projeto foi criado de estudantes para estudantes.",
     "ambassador": {
       "title": "Embaixadores",
-      "content": "Os egressos Celso e Karine trouxeram a idéia do Hackathon para a FAESA e moldaram ela até a 4°edição. Com muita determinação e disposição, eles realçaram a importância, o conceito e o propósito do evento estruturando uma boa base para as futuras gerações do HACKFAESA.",
+      "content": "Os egressos Celso e Karine trouxeram a idéia do Hackathon para a FAESA e moldaram ela até a 4ª edição. Com muita determinação e disposição, eles realçaram a importância, o conceito e o propósito do evento estruturando uma boa base para as futuras gerações do HACKFAESA.",
       "list": [
         {
           "name": "Celso Palmeira",
@@ -540,7 +552,11 @@
         {
           "name": "Celso Palmeira",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user4.jpg",
-          "badges": ["Embaixador", "Aluno Egresso FAESA", "1ºEdição - 4ºEdição"]
+          "badges": [
+            "Embaixador",
+            "Aluno Egresso FAESA",
+            "1ª Edição - 4ª Edição"
+          ]
         },
         {
           "name": "Karine Liuti",
@@ -548,7 +564,7 @@
           "badges": [
             "Embaixadora",
             "Aluna Egresso FAESA",
-            "1ºEdição - 4ºEdição"
+            "1ª Edição - 4ª Edição"
           ]
         },
         {
@@ -557,7 +573,7 @@
           "badges": [
             "Ex-Colaboradora Mov.ie",
             "Ex-Especialista em Extensão FAESA",
-            "5ºEdição - 10ºEdição"
+            "5ª Edição - 10ª Edição"
           ]
         },
         {
@@ -566,7 +582,7 @@
           "badges": [
             "Colaborador Mov.ie",
             "Especialista em Inovação FAESA",
-            "10ºEdição - 12ºEdição"
+            "10ª Edição - 12ª Edição"
           ]
         },
         {
@@ -596,7 +612,7 @@
             "Ex-organizador",
             "Diretor Comercial",
             "Aluno Egresso FAESA",
-            "5ºEdição - 10ºEdição"
+            "5ª Edição - 10ª Edição"
           ]
         },
         {
@@ -606,7 +622,7 @@
             "Ex-organizador",
             "Diretor de Tecnologia",
             "Aluno Egresso FAESA",
-            "5ºEdição - 12ºEdição"
+            "5ª Edição - 12ª Edição"
           ]
         },
         {
@@ -616,7 +632,7 @@
             "Ex-organizadora",
             "Diretora de Operações",
             "Aluno Egresso FAESA",
-            "5ºEdição - 10ºEdição"
+            "5ª Edição - 10ª Edição"
           ]
         },
         {
@@ -626,7 +642,7 @@
             "Ex-organizador",
             "Diretor de Operações",
             "Aluno Egresso FAESA",
-            "5ºEdição - 10ºEdição"
+            "5ª Edição - 10ª Edição"
           ]
         },
         {
@@ -636,7 +652,7 @@
             "Ex-organizadora",
             "Diretora de Gestão",
             "Aluno Egresso FAESA",
-            "5ºEdição - 10ºEdição"
+            "5ª Edição - 10ª Edição"
           ]
         },
         {
@@ -646,7 +662,7 @@
             "Ex-organizador",
             "Diretor de Gestão",
             "Aluno Egresso FAESA",
-            "5ºEdição - 11ºEdição"
+            "5ª Edição - 11ª Edição"
           ]
         },
         {
@@ -655,7 +671,7 @@
           "badges": [
             "Ex-organizador",
             "Aluno Egresso FAESA",
-            "5ºEdição - 8ºEdição"
+            "5ª Edição - 8ª Edição"
           ]
         },
         {
@@ -664,7 +680,7 @@
           "badges": [
             "Ex-organizador",
             "Aluno Egresso FAESA",
-            "5ºEdição - 8ºEdição"
+            "5ª Edição - 8ª Edição"
           ]
         },
         {
@@ -673,7 +689,7 @@
           "badges": [
             "Ex-organizador",
             "Aluno Egresso FAESA",
-            "5ºEdição - 8ºEdição"
+            "5ª Edição - 8ª Edição"
           ]
         },
         {
@@ -683,7 +699,7 @@
             "Ex-organizadora",
             "Diretora Comercial",
             "Aluna Egresso FAESA",
-            "10ºEdição - 11ºEdição"
+            "10ª Edição - 11ª Edição"
           ]
         },
         {
@@ -693,17 +709,17 @@
             "Ex-organizadora",
             "Diretora de Operações",
             "Aluno FAESA",
-            "10ºEdição - 12ºEdição"
+            "10ª Edição - 12ª Edição"
           ]
         },
         {
           "name": "Jair Batista",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user10.jpg",
           "badges": [
-            "Organizador",
+            "Ex-Organizador",
             "Diretor de Tecnologia/Operações",
             "Aluno Egresso FAESA",
-            "10ºEdição - 13ºEdição"
+            "10ª Edição - 13ª Edição"
           ]
         },
         {
@@ -713,7 +729,7 @@
             "Organizador",
             "Diretor de Tecnologia",
             "Aluno Egresso FAESA",
-            "10ºEdição - 13ºEdição"
+            "10ª Edição - 14ª Edição"
           ]
         },
         {
@@ -723,17 +739,17 @@
             "Organizador",
             "Diretor de Tecnologia/Comercial",
             "Aluno Egresso FAESA",
-            "11ºEdição - 13ºEdição"
+            "11ª Edição - 14ª Edição"
           ]
         },
         {
           "name": "Eduardo Teobaldo",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user38.jpg",
           "badges": [
-            "Organizador",
+            "Ex-Organizador",
             "Diretor Comercial",
             "Aluno Egresso FAESA",
-            "12ºEdição - 13ºEdição"
+            "12ª Edição - 13ª Edição"
           ]
         },
         {
@@ -743,27 +759,27 @@
             "Ex-organizador",
             "Diretor Comercial",
             "Aluno FAESA",
-            "11ºEdição - 12ºEdição"
+            "11ª Edição - 12ª Edição"
           ]
         },
         {
           "name": "Rebecca Ribeiro",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user23.jpg",
           "badges": [
-            "Organizadora",
+            "Ex-Organizadora",
             "Diretora de Comunicação",
             "Aluna FAESA",
-            "11ºEdição - 13ºEdição"
+            "11ª Edição - 13ª Edição"
           ]
         },
         {
           "name": "Letícia Rasch",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user24.jpg",
           "badges": [
-            "Organizador",
+            "Ex-Organizador",
             "Diretora de Operações",
             "Aluna Egresso FAESA",
-            "11ºEdição - 13ºEdição"
+            "11ª Edição - 13ª Edição"
           ]
         },
         {
@@ -773,7 +789,7 @@
             "Ex-organizadora",
             "Diretora de Comunicação",
             "Aluna Egresso FAESA",
-            "11ºEdição - 12ºEdição"
+            "11ª Edição - 12ª Edição"
           ]
         },
         {
@@ -783,17 +799,17 @@
             "Ex-organizador",
             "Diretor Comercial",
             "Aluno Egresso FAESA",
-            "12ºEdição"
+            "12ª Edição"
           ]
         },
         {
           "name": "Mycaella Vittoria",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user27.jpg",
           "badges": [
-            "Organizadora",
+            "Ex-Organizadora",
             "Diretora de Comunicação",
             "Aluno FAESA",
-            "12ºEdição - 13ºEdição"
+            "12ª Edição - 13ª Edição"
           ]
         },
         {
@@ -803,7 +819,7 @@
             "Ex-organizador",
             "Diretor de Operações",
             "Aluno FAESA",
-            "12ºEdição"
+            "12ª Edição"
           ]
         },
         {
@@ -813,7 +829,7 @@
             "Organizadora",
             "Diretora de Operações",
             "Aluna FAESA",
-            "13ºEdição"
+            "13ª Edição - 14ª Edição"
           ]
         },
         {
@@ -823,7 +839,7 @@
             "Organizadora",
             "Diretora de Comunicação",
             "Aluna FAESA",
-            "13ºEdição"
+            "13ª Edição - 14ª Edição"
           ]
         },
         {
@@ -833,7 +849,7 @@
             "Organizadora",
             "Diretora de Comunicação",
             "Aluna FAESA",
-            "13ºEdição"
+            "13ª Edição - 14ª Edição"
           ]
         },
         {
@@ -843,7 +859,7 @@
             "Organizador",
             "Diretor Comercial",
             "Aluno FAESA",
-            "13ºEdição"
+            "13ª Edição - 14ª Edição"
           ]
         },
         {
@@ -853,7 +869,7 @@
             "Organizador",
             "Diretor de Tecnologia",
             "Aluno FAESA",
-            "13ºEdição"
+            "13ª Edição - 14ª Edição"
           ]
         },
         {
@@ -863,7 +879,7 @@
             "Organizador",
             "Diretor de Operações",
             "Aluno FAESA",
-            "13ºEdição"
+            "13ª Edição - 14ª Edição"
           ]
         }
       ]
