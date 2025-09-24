@@ -876,6 +876,26 @@
             "Aluno FAESA",
             "13ª Edição - 14ª Edição"
           ]
+         },
+        {
+          "name": "Emily Mangas",
+          "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/refs/heads/main/team/user39.jpg",
+          "badges": [
+            "Organizador",
+            "Diretor de Operações",
+            "Aluna FAESA",
+            "14ª Edição"
+          ]  
+         },
+        {
+          "name": "Saulo Zambom",
+          "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/refs/heads/main/team/User40.jpg",
+          "badges": [
+            "Organizador",
+            "Diretor de Operações",
+            "Aluno FAESA",
+            "14ª Edição"
+          ]    
         }
       ]
     }
