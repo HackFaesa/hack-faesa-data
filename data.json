@@ -1,6 +1,6 @@
 {
   "subscription": {
-    "isAvailable": false,
+    "isAvailable": true,
     "defaultMessage": {
       "title": "Em breve abriremos as inscrições para o Hackthon desse ano, qualquer dúvida ou informação favor entrar em contato pelo email abaixo:",
       "link": "mailto:contatohackfaesa@gmail.com",
@@ -8,11 +8,11 @@
     },
     "buttons": [
       {
-        "link": "https://www.sympla.com.br/evento/hack-faesa-130/2675641",
+        "link": "https://www.even3.com.br/maratonahfaesa-633318/",
         "text": "INSCREVA-SE NO HACKATHON!"
       },
       {
-        "link": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/docs/edital2024.pdf",
+        "link": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/docs/edital2025.pdf",
         "text": "CONFIRA O EDITAL COMPLETO"
       }
     ]
@@ -876,7 +876,7 @@
             "Aluno FAESA",
             "13ª Edição - 14ª Edição"
           ]
-         },
+        },
         {
           "name": "Emily Mangas",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/refs/heads/main/team/user39.jpg",
@@ -885,8 +885,8 @@
             "Diretora de Operações",
             "Aluna FAESA",
             "14ª Edição"
-          ]  
-         },
+          ]
+        },
         {
           "name": "Saulo Zambom",
           "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/refs/heads/main/team/User40.jpg",
@@ -895,7 +895,7 @@
             "Diretor de Operações",
             "Aluno FAESA",
             "14ª Edição"
-          ]    
+          ]
         }
       ]
     }
