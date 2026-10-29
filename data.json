@@ -23,7 +23,7 @@
   "home": {
     "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
     "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. A data das inscrições para o evento e dos bootcamps ainda não foram definidos.",
-    "date": "Evento: 25 e 26 de Outubro, iniciando às 8h.",
+    "date": "Evento: 31 e 01 de Outubro e novembro, iniciando às 8h.",
     "socialMedia": [
       {
         "link": "mailto:contatohackfaesa@gmail.com",
@@ -279,6 +279,20 @@
       "title": "Apoiadores",
       "content": "A cada edição contamos com os nossos constantes patrocinadores e novos apoiadores que consolidam e promovem mais o evento e suas singularidades. Caso haja interesse em entrar como patrocinador em futuras edições do evento, envie um email para contatohackfaesa@gmail.com que iremos passar mais informações. ",
       "list": [
+        {
+          "title": "Hack FAESA - 15ª Edição",
+          "sponsors": [
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/faesa.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/vale.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/coroa.png",
+            "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/sponsors/d2l.png",
+            "https://github.com/HackFaesa/hack-faesa-data/blob/main/sponsors/frangolandia.png",
+            "https://github.com/HackFaesa/hack-faesa-data/blob/main/sponsors/mapeia.png",
+            "https://github.com/HackFaesa/hack-faesa-data/blob/main/sponsors/remsoft.png"
+            
+            
+          ]
+        },
         {
           "title": "Hack FAESA - 14ª Edição",
           "sponsors": [
@@ -724,7 +738,7 @@
             "Organizador",
             "Diretor de Tecnologia",
             "Aluno Egresso FAESA",
-            "10ª Edição - 14ª Edição"
+            "10ª Edição - 15ª Edição"
           ]
         },
         {
@@ -824,7 +838,7 @@
             "Organizadora",
             "Diretora de Operações",
             "Aluna FAESA",
-            "13ª Edição - 14ª Edição"
+            "13ª Edição - 15ª Edição"
           ]
         },
         {
@@ -834,7 +848,7 @@
             "Organizadora",
             "Diretora de Comunicação",
             "Aluna FAESA",
-            "13ª Edição - 14ª Edição"
+            "13ª Edição - 15ª Edição"
           ]
         },
         {
@@ -844,7 +858,7 @@
             "Organizadora",
             "Diretora de Comunicação",
             "Aluna FAESA",
-            "13ª Edição - 14ª Edição"
+            "13ª Edição - 15ª Edição"
           ]
         },
         {
@@ -854,7 +868,7 @@
             "Organizador",
             "Diretor Comercial",
             "Aluno FAESA",
-            "13ª Edição - 14ª Edição"
+            "13ª Edição - 15ª Edição"
           ]
         },
         {
@@ -864,7 +878,7 @@
             "Organizador",
             "Diretor de Tecnologia",
             "Aluno FAESA",
-            "13ª Edição - 14ª Edição"
+            "13ª Edição - 15ª Edição"
           ]
         },
         {
@@ -874,7 +888,7 @@
             "Organizador",
             "Diretor de Operações",
             "Aluno FAESA",
-            "13ª Edição - 14ª Edição"
+            "13ª Edição - 15ª Edição"
           ]
         },
         {
@@ -884,7 +898,7 @@
             "Organizador",
             "Diretora de Operações",
             "Aluna FAESA",
-            "14ª Edição"
+            "14ª - 15ª Edição"
           ]
         },
         {
