@@ -817,7 +817,7 @@
           "badges": [
             "Ex-Organizadora",
             "Diretora de Comunicação",
-            "Aluno FAESA",
+            "Aluna FAESA",
             "12ª Edição - 13ª Edição"
           ]
         },
@@ -877,7 +877,7 @@
           "badges": [
             "Organizador",
             "Diretor de Tecnologia",
-            "Aluno FAESA",
+            "Aluno Egresso FAESA",
             "13ª Edição - 15ª Edição"
           ]
         },
@@ -898,7 +898,7 @@
             "Organizador",
             "Diretora de Operações",
             "Aluna FAESA",
-            "14ª - 15ª Edição"
+            "14ª Edição - 15ª Edição"
           ]
         },
         {
@@ -909,6 +909,46 @@
             "Diretor de Operações",
             "Aluno FAESA",
             "14ª Edição"
+          ]
+           },
+        {
+          "name": "Samira Matos",
+          "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user41.png",
+          "badges": [
+            "Organizador",
+            "Diretora de Comunicação",
+            "Aluna FAESA",
+            "14ª Edição - 15ª Edição "
+          ]
+          },
+        {
+          "name": "Gabriel Gonçalves",
+          "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user42.png",
+          "badges": [
+            "Organizador",
+            "Diretor de Tecnologia",
+            "Aluno FAESA",
+            "15ª Edição "
+          ]
+           },
+        {
+          "name": "Ana Lombardi",
+          "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user43.png",
+          "badges": [
+            "Organizador",
+            "Diretora de Comunicação",
+            "Aluna FAESA",
+            "15ª Edição "
+          ]
+          },
+        {
+          "name": "Mikaelly Cardoso",
+          "image": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/team/user44.png",
+          "badges": [
+            "Organizador",
+            "Diretora Comercial",
+            "Aluna FAESA",
+            "15ª Edição "
           ]
         }
       ]
