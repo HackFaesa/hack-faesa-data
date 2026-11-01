@@ -23,7 +23,7 @@
   "home": {
     "title": "O HACKFAESA é um projeto universitário desenvolvido pelo Mov.ie que reúne estudantes, professores, empresários e novos empreendedores, oportunizando a criação de soluções inovadoras a partir dos desafios enfrentados por empresas e a sociedade, promovendo a conexão entre os estudantes e o universo do trabalho.",
     "content": "Hackathon é uma maratona de programação, um evento que reúne programadores, designers e outros profissionais ligados ao desenvolvimento de software e novas tecnologias. A data das inscrições para o evento e dos bootcamps ainda não foram definidos.",
-    "date": "Evento: De 31 de Outubro a 01 novembro, iniciando às 8h.",
+    "date": "Evento: De 30 a 31 de Outubro, iniciando às 8h.",
     "socialMedia": [
       {
         "link": "mailto:contatohackfaesa@gmail.com",
@@ -987,6 +987,13 @@
       "title": "Vencedores",
       "content": "Os ganhadores das edições passadas, além do prêmio em dinheiro, eles alcançam uma profunda experiência em como lidar com o mercado através do trabalho de equipe.",
       "winners": [
+        {
+          "edition": 15,
+          "galleryLink": "",
+          "firstGroupImage": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/winners/15_1.jpeg",
+          "secondGroupImage": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/winners/15_2.jpeg",
+          "thirdGroupImage": "https://raw.githubusercontent.com/HackFaesa/hack-faesa-data/main/winners/15_3.jpeg"
+        },
         {
           "edition": 13,
           "galleryLink": "https://drive.google.com/drive/folders/1_JlUqNwPWIdGgm1UYkkQD8oEAiL1d8yd",
